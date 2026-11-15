@@ -16,15 +16,29 @@ concurrency:
 jobs:
   find:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
       - name: Fetch LeadBot
-        run: curl -fsSL "https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page/leadbot.py" -o leadbot.py
+        run: |
+          set -euo pipefail
+          url="https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page/leadbot.py"
+          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$url" -o leadbot.py
+          python3 -c "import ast, sys; ast.parse(open('leadbot.py', encoding='utf-8').read())"
+          test "$(wc -c < leadbot.py)" -gt 20000
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      # The bot remembers every post it has already shown, so yesterday's
+      # leads do not come back today. That memory lives in output/seen.db,
+      # which is restored from state/ and committed back at the end.
+      - name: Restore memory
+        run: |
+          mkdir -p output state
+          if [ -f state/seen.db ]; then cp state/seen.db output/seen.db; fi
 
       - name: Find leads
         run: python leadbot.py
@@ -35,13 +49,28 @@ jobs:
 
       - name: Publish the feed
         run: |
-          mkdir -p docs
-          cp output/leads.json docs/leads.json
+          set -euo pipefail
+          mkdir -p docs state
+          # On a quiet day keep yesterday's list on the page rather than
+          # replacing it with an empty one. The page shows when it was written.
+          count=$(python3 -c "import json;print(json.load(open('output/leads.json'))['count'])")
+          if [ "$count" -gt 0 ]; then
+            cp output/leads.json docs/leads.json
+          else
+            echo "no new leads today - keeping the last published list"
+          fi
+          if [ -f output/seen.db ]; then cp output/seen.db state/seen.db; fi
           git config user.name "LeadBot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/leads.json
-          git diff --cached --quiet || git commit -m "Leads for $(date -u +%F)"
-          git push
+          git add docs/leads.json state/seen.db
+          git diff --cached --quiet && exit 0
+          git commit -m "Leads for $(date -u +%F)"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 5
+          done
+          echo "Could not push the feed after 3 attempts" >&2
+          exit 1
 
       - name: Keep the report
         uses: actions/upload-artifact@v4
