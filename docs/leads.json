@@ -1,109 +1,36 @@
 {
- "generated": "2026-11-15T13:35:49+00:00",
- "count": 7,
+ "generated": "2026-11-15T13:39:57+00:00",
+ "count": 2,
  "leads": [
   {
-   "score": 22,
-   "title": "Instructional Designer",
-   "source": "weworkremotely",
-   "company": "MedAmerica",
-   "location": "Remote",
-   "posted": "2026-11-07",
-   "url": "https://weworkremotely.com/remote-jobs/medamerica-instructional-designer",
-   "matched": [
-    "designer",
-    "design",
-    "technical writ",
-    "excel",
-    "video",
-    "editing"
-   ],
-   "email": ""
-  },
-  {
-   "score": 14,
-   "title": "Data Analyst (No Experience Required)",
-   "source": "working nomads",
-   "company": "Peroptyx",
-   "location": "Canada",
-   "posted": "2026-11-09",
-   "url": "https://www.workingnomads.com/job/go/2007847/",
-   "matched": [
-    "data analyst"
-   ],
-   "email": ""
-  },
-  {
-   "score": 12,
-   "title": "Primer Product Photography & Banner",
+   "score": 18,
+   "title": "Simple Text-Based Logo for a Neighborhood Book Club",
    "source": "freelancer.com",
    "company": "",
    "location": "Remote",
    "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/photography/Primer-Product-Photography-Banner.html",
+   "url": "https://www.freelancer.com/projects/typography/Simple-Text-Based-Logo-for-40819175.html",
    "matched": [
-    "banner",
+    "logo",
     "graphic design",
+    "designer",
     "design"
    ],
    "email": ""
   },
   {
-   "score": 11,
-   "title": "PDF Data Entry to Spreadsheet",
+   "score": 13,
+   "title": "Watercolor Artwork Editing & Print Preparation",
    "source": "freelancer.com",
    "company": "",
    "location": "Remote",
    "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/google-sheets/PDF-Data-Entry-Spreadsheet-40819166.html",
+   "url": "https://www.freelancer.com/projects/photo-editing/Watercolor-Artwork-Editing-Print.html",
    "matched": [
-    "data entry",
-    "excel"
-   ],
-   "email": ""
-  },
-  {
-   "score": 10,
-   "title": "Music & Sound Annotation Expert",
-   "source": "himalayas",
-   "company": "micro1",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045",
-   "matched": [
-    "annotation",
+    "editing",
     "editor",
-    "designer",
-    "design"
-   ],
-   "email": ""
-  },
-  {
-   "score": 10,
-   "title": "Cursive Notes Transcription to Plain Text",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/copy-typing/Cursive-Notes-Transcription-Plain-Text.html",
-   "matched": [
-    "transcription",
-    "proofread"
-   ],
-   "email": ""
-  },
-  {
-   "score": 9,
-   "title": "Health & Wellness Brochure Design",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/adobe-illustrator/Health-Wellness-Brochure-Design.html",
-   "matched": [
-    "design",
     "graphic design",
-    "designer"
+    "design"
    ],
    "email": ""
   }
