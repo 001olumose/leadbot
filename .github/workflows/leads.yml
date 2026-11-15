@@ -51,19 +51,17 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p docs state
-          # On a quiet day keep yesterday's list on the page rather than
-          # replacing it with an empty one. The page shows when it was written.
-          count=$(python3 -c "import json;print(json.load(open('output/leads.json'))['count'])")
-          if [ "$count" -gt 0 ]; then
-            cp output/leads.json docs/leads.json
-          else
-            echo "no new leads today - keeping the last published list"
-          fi
+          # Rolling list: today's finds are added to the recent ones, so a quiet
+          # morning never leaves the page with a shorter list than yesterday.
+          python3 scripts/merge_feed.py output/leads.json docs/leads.json
           if [ -f output/seen.db ]; then cp output/seen.db state/seen.db; fi
           git config user.name "LeadBot"
           git config user.email "actions@users.noreply.github.com"
           git add docs/leads.json state/seen.db
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo "nothing new to publish"
+            exit 0
+          fi
           git commit -m "Leads for $(date -u +%F)"
           for attempt in 1 2 3; do
             git pull --rebase --autostash origin main && git push && exit 0
