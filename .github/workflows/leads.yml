@@ -23,25 +23,29 @@ jobs:
       - name: Fetch LeadBot
         run: |
           set -euo pipefail
-          url="https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page/leadbot.py"
-          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$url" -o leadbot.py
+          base="https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page"
+          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$base/leadbot.py" -o leadbot.py
+          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$base/config.json" -o config.json
           python3 -c "import ast, sys; ast.parse(open('leadbot.py', encoding='utf-8').read())"
+          python3 -c "import json; json.load(open('config.json', encoding='utf-8'))"
           test "$(wc -c < leadbot.py)" -gt 20000
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      # The bot remembers every post it has already shown, so yesterday's
-      # leads do not come back today. That memory lives in output/seen.db,
-      # which is restored from state/ and committed back at the end.
+      # The bot remembers what it has already shown, who it has already
+      # emailed, and who asked not to be contacted. All three live in state/
+      # and are committed back at the end of the run.
       - name: Restore memory
         run: |
           mkdir -p output state
           if [ -f state/seen.db ]; then cp state/seen.db output/seen.db; fi
+          if [ -f state/sent.db ]; then cp state/sent.db output/sent.db; fi
+          if [ -f state/suppress.txt ]; then cp state/suppress.txt output/suppress.txt; fi
 
-      - name: Find leads
-        run: python leadbot.py
+      - name: Find leads and send outreach
+        run: python leadbot.py --send
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
@@ -55,9 +59,11 @@ jobs:
           # morning never leaves the page with a shorter list than yesterday.
           python3 scripts/merge_feed.py output/leads.json docs/leads.json
           if [ -f output/seen.db ]; then cp output/seen.db state/seen.db; fi
+          if [ -f output/sent.db ]; then cp output/sent.db state/sent.db; fi
+          if [ -f output/suppress.txt ]; then cp output/suppress.txt state/suppress.txt; fi
           git config user.name "LeadBot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/leads.json state/seen.db
+          git add -A docs state
           if git diff --cached --quiet; then
             echo "nothing new to publish"
             exit 0
