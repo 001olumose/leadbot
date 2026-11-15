@@ -1,0 +1,39 @@
+name: LeadBot
+
+on:
+  schedule:
+    # 06:00 UTC = 07:00 in Lagos. Change the hour if you prefer.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch LeadBot
+        run: curl -fsSL "https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page/leadbot.py" -o leadbot.py
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find leads
+        run: python leadbot.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+
+      - name: Keep the report
+        uses: actions/upload-artifact@v4
+        with:
+          name: leads-${{ github.run_number }}
+          path: |
+            output/digest.html
+            output/leads.csv
+          retention-days: 30
