@@ -1,0 +1,212 @@
+{
+  "profile": {
+    "name": "Moses Ojeleye",
+    "email": "ojeleyemoses698@gmail.com",
+    "portfolio": "https://oasisglobal.netlify.app",
+    "linkedin": "linkedin.com/in/mosesojeleye",
+    "services_short": "ghostwriting and copywriting, brand and book design, motion graphics and explainer videos, research writing, statistical analysis in SPSS, Stata, R and Python, and agricultural consulting"
+  },
+  "filters": {
+    "max_age_days": 10,
+    "min_score": 9,
+    "exclude": [
+      "[for hire]",
+      "for hire]",
+      "unpaid",
+      "no pay",
+      "commission only",
+      "equity only",
+      "rev-share",
+      "revenue share",
+      "pro bono",
+      "volunteer",
+      "internship",
+      "essay mill",
+      "do my homework",
+      "adult content",
+      "gambling",
+      "onlyfans",
+      "crypto",
+      "casino",
+      "japanese",
+      "korean",
+      "mandarin",
+      "german speaking",
+      "french speaking",
+      "dutch speaking",
+      "arabic speaking",
+      "video calls",
+      "webcam",
+      "call center",
+      "data entry scam"
+    ],
+    "penalise": {
+      "senior": 6,
+      "principal": 8,
+      "head of": 6,
+      "director": 8,
+      "vp ": 6,
+      "chief": 8,
+      "10+ years": 5,
+      "phd": 6,
+      "unpaid": 20
+    }
+  },
+  "keywords": {
+    "ghostwrit": 7,
+    "copywrit": 6,
+    "content writ": 5,
+    "technical writ": 6,
+    "white paper": 6,
+    "case study": 5,
+    "landing page": 5,
+    "blog post": 4,
+    "blog": 2,
+    "article": 3,
+    "proofread": 5,
+    "editor": 3,
+    "scriptwrit": 6,
+    "screenplay": 5,
+    "video script": 6,
+    "brand identity": 7,
+    "brand design": 6,
+    "logo": 6,
+    "book cover": 6,
+    "graphic design": 6,
+    "motion graphic": 7,
+    "explainer video": 7,
+    "video edit": 6,
+    "animation": 4,
+    "website design": 6,
+    "web design": 6,
+    "wordpress": 5,
+    "webflow": 4,
+    "figma": 3,
+    "ui design": 4,
+    "data analysis": 6,
+    "data analyst": 6,
+    "data entry": 5,
+    "spss": 8,
+    "stata": 8,
+    "statistical": 7,
+    "regression": 5,
+    "survey": 4,
+    "r studio": 5,
+    "python": 2,
+    "dashboard": 4,
+    "excel": 3,
+    "research writ": 6,
+    "literature review": 5,
+    "apa": 4,
+    "thesis": 4,
+    "dissertation": 4,
+    "transcription": 4,
+    "agricultur": 8,
+    "agribusiness": 8,
+    "agronomy": 8,
+    "poultry": 8,
+    "livestock": 7,
+    "farm": 5,
+    "horticultur": 6,
+    "proposal writ": 6,
+    "grant writ": 7,
+    "rural development": 5,
+    "monitoring and evaluation": 5,
+    "ai training": 6,
+    "rlhf": 7,
+    "annotation": 6,
+    "data label": 6,
+    "prompt engineering": 5,
+    "llm": 3,
+    "designer": 4,
+    "animated": 5,
+    "blogging": 4,
+    "rebrand": 5,
+    "video editing": 6,
+    "grant": 5,
+    "proposal": 3,
+    "nursery": 4,
+    "agric": 6,
+    "design": 2,
+    "redesign": 4,
+    "thumbnail": 5,
+    "banner": 4,
+    "flyer": 5,
+    "poster": 4,
+    "ebook": 5,
+    "formatting": 5,
+    "reels": 3,
+    "video": 2,
+    "youtube": 2,
+    "editing": 4,
+    "book layout": 5,
+    "brand": 3
+  },
+  "sources": {
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        "forhire",
+        "hireareddit",
+        "DesignJobs",
+        "freelance_forhire"
+      ]
+    },
+    "hackernews": {
+      "enabled": true
+    },
+    "freelancer": {
+      "enabled": true
+    },
+    "remotive": {
+      "enabled": true
+    },
+    "weworkremotely": {
+      "enabled": true,
+      "feeds": [
+        "remote-design-jobs",
+        "remote-copywriting-jobs"
+      ]
+    },
+    "jobicy": {
+      "enabled": true
+    },
+    "himalayas": {
+      "enabled": true
+    },
+    "telegram": {
+      "enabled": false,
+      "channels": []
+    },
+    "workingnomads": {
+      "enabled": true
+    },
+    "remoteok": {
+      "enabled": true
+    },
+    "jobspresso": {
+      "enabled": true
+    }
+  },
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "sending": {
+    "enabled": false,
+    "provider": "smtp",
+    "from_name": "Moses Ojeleye",
+    "from_email": "ojeleyemoses698@gmail.com",
+    "reply_to": "",
+    "smtp_host": "",
+    "smtp_port": 587,
+    "smtp_starttls": true,
+    "smtp_user": "",
+    "smtp_password": "",
+    "resend_api_key": "",
+    "daily_cap": 10,
+    "min_seconds_between": 45,
+    "subject": "{title_short} — quick question",
+    "body": "Hi,\n\nI saw your post about {title}, and it's the kind of work I do.\n\nI do {services_short}. I can start this week, and if it's useful I'll send a short sample built around what you described before you commit to anything.\n\n{portfolio}\n\nIf this isn't relevant, just reply \"no\" and I won't follow up.\n\n{name}\n{email}"
+  }
+}
