@@ -2,8 +2,11 @@ name: LeadBot
 
 on:
   schedule:
-    # 06:00 UTC = 07:00 in Lagos. Change the hour if you prefer.
-    - cron: "0 6 * * *"
+    # 06:13 UTC = 07:13 in Lagos. Deliberately not on the hour: GitHub
+    # delays or drops top-of-the-hour crons when its queue is busy.
+    - cron: "13 6 * * *"
+    # Backstop, in case the morning slot is dropped.
+    - cron: "43 9 * * *"
   workflow_dispatch:
 
 permissions:
