@@ -1,7 +1,26 @@
 {
- "generated": "2026-11-17T15:57:53+00:00",
+ "generated": "2026-11-17T18:46:05+00:00",
  "count": 40,
  "leads": [
+  {
+   "score": 36,
+   "title": "Modern Logo and Advertising Banner Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-17",
+   "url": "https://www.freelancer.com/projects/advertisement-design/Modern-Logo-Advertising-Banner-Design.html",
+   "matched": [
+    "logo",
+    "design",
+    "banner",
+    "graphic design",
+    "designer",
+    "brand"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
   {
    "score": 34,
    "title": "AI Explainer Video: Hedged Strategy",
@@ -408,6 +427,23 @@
   },
   {
    "score": 20,
+   "title": "Social Media & Online Presence Audit VA |Short-Term Remote Project | $4 USD/hour",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-17",
+   "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Online-Presence-Audit.html",
+   "matched": [
+    "social media",
+    "data entry",
+    "youtube",
+    "brand"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 20,
    "title": "AI Video Generation Using Blender",
    "source": "freelancer.com",
    "company": "",
@@ -545,6 +581,22 @@
   },
   {
    "score": 18,
+   "title": "Professional Photo Editing Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-17",
+   "url": "https://www.freelancer.com/projects/adobe-photoshop/Professional-Photo-Editing-Needed-40823064.html",
+   "matched": [
+    "editing",
+    "graphic design",
+    "design"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 18,
    "title": "AI Animator for Kids Educational Phonics Game Videos",
    "source": "freelancer.com",
    "company": "",
@@ -640,55 +692,6 @@
     "data analyst",
     "data analysis",
     "excel"
-   ],
-   "email": ""
-  },
-  {
-   "score": 18,
-   "title": "Brand & Marketing Designer",
-   "source": "dribbble",
-   "company": "Waveguard USA",
-   "location": "Remote",
-   "posted": "2026-11-13",
-   "url": "https://dribbble.com/jobs/311858-Brand-Marketing-Designer",
-   "matched": [
-    "designer",
-    "design",
-    "brand"
-   ],
-   "email": "",
-   "kind": "job"
-  },
-  {
-   "score": 17,
-   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote möglich, 10–20 Std./Woche",
-   "source": "arbeitnow",
-   "company": "F& | Focus & Flow GmbH",
-   "location": "Berlin",
-   "posted": "2026-11-16",
-   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
-   "matched": [
-    "copywrit",
-    "video",
-    "social media"
-   ],
-   "email": "",
-   "kind": "job"
-  },
-  {
-   "score": 16,
-   "title": "UGC Presenter Freelancer -- 2",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/video-production/UGC-Presenter-Freelancer.html",
-   "matched": [
-    "video edit",
-    "video editing",
-    "video",
-    "editing",
-    "brand"
    ],
    "email": ""
   }
