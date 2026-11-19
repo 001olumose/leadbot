@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T18:24:58+00:00",
+ "generated": "2026-11-19T15:43:30+00:00",
  "count": 40,
  "leads": [
   {
@@ -78,6 +78,42 @@
    "email": ""
   },
   {
+   "score": 30,
+   "title": "Graphic Designer: Print, Brand & Web",
+   "source": "dribbble",
+   "company": "Overseas Media Group",
+   "location": "Remote",
+   "posted": "2026-11-18",
+   "url": "https://dribbble.com/jobs/311924-Graphic-Designer-Print-Brand-Web",
+   "matched": [
+    "graphic design",
+    "designer",
+    "design",
+    "brand"
+   ],
+   "email": "",
+   "kind": "job"
+  },
+  {
+   "score": 29,
+   "title": "Corporate presentation redesign - 21 slides, real estate & hospitality group",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://www.freelancer.com/projects/visual-design/Corporate-presentation-redesign-slides.html",
+   "matched": [
+    "redesign",
+    "presentation",
+    "graphic design",
+    "design",
+    "content strategy",
+    "brand"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
    "score": 29,
    "title": "Consumer-Focused Website Redesign -- 2",
    "source": "freelancer.com",
@@ -151,6 +187,24 @@
    ],
    "email": "",
    "kind": "job"
+  },
+  {
+   "score": 27,
+   "title": "Entry-Level Data Analyst Cover Letter",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://www.freelancer.com/projects/data-analysis/Entry-Level-Data-Analyst-Cover.html",
+   "matched": [
+    "data analyst",
+    "data analysis",
+    "data entry",
+    "excel",
+    "research writ"
+   ],
+   "email": "",
+   "kind": "gig"
   },
   {
    "score": 27,
@@ -275,6 +329,62 @@
   },
   {
    "score": 25,
+   "title": "SEO Content Writer – Spanish",
+   "source": "jobspresso",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://jobspresso.co/job/seo-content-writer-spanish/",
+   "matched": [
+    "content writ",
+    "blog",
+    "web design",
+    "design",
+    "video",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 25,
+   "title": "SEO Content Writer – Italian",
+   "source": "jobspresso",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://jobspresso.co/job/seo-content-writer-italian/",
+   "matched": [
+    "content writ",
+    "blog",
+    "web design",
+    "design",
+    "video",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 25,
+   "title": "UI Designer - AI Neobank App",
+   "source": "jobicy",
+   "company": "BJAK",
+   "location": "Germany",
+   "posted": "2026-11-19",
+   "url": "https://jobicy.com/jobs/163237-ui-designer-ai-neobank-app",
+   "matched": [
+    "ui design",
+    "designer",
+    "design",
+    "figma",
+    "typography"
+   ],
+   "email": "",
+   "kind": "job"
+  },
+  {
+   "score": 25,
    "title": "Powerful Memoir Book Cover Design",
    "source": "freelancer.com",
    "company": "",
@@ -379,6 +489,25 @@
   },
   {
    "score": 22,
+   "title": "Enterprise Account Executive | New Logo | NORD",
+   "source": "jobicy",
+   "company": "Jamf",
+   "location": "Sweden",
+   "posted": "2026-11-19",
+   "url": "https://jobicy.com/jobs/163261-enterprise-account-executive-new-logo-nord",
+   "matched": [
+    "logo",
+    "grant",
+    "proposal",
+    "banner",
+    "presentation",
+    "brand"
+   ],
+   "email": "recruiting@jamf.com",
+   "kind": "gig"
+  },
+  {
+   "score": 22,
    "title": "Creative Designer (m/w/d)",
    "source": "himalayas",
    "company": "Neolymp",
@@ -446,6 +575,25 @@
     "video"
    ],
    "email": ""
+  },
+  {
+   "score": 21,
+   "title": "Grow My YouTube Channel to Monetisation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://www.freelancer.com/projects/video-editing/Grow-YouTube-Channel-Monetisation.html",
+   "matched": [
+    "youtube",
+    "video edit",
+    "video editing",
+    "video",
+    "editing",
+    "social media"
+   ],
+   "email": "",
+   "kind": "gig"
   },
   {
    "score": 21,
@@ -519,6 +667,38 @@
   },
   {
    "score": 20,
+   "title": "Product Data Entry Conversion",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://www.freelancer.com/projects/data-management/Product-Data-Entry-Conversion.html",
+   "matched": [
+    "data entry",
+    "excel",
+    "annotation"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 20,
+   "title": "Handwritten Contacts Data Entry",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://www.freelancer.com/projects/google-sheets/Handwritten-Contacts-Data-Entry.html",
+   "matched": [
+    "data entry",
+    "excel",
+    "annotation"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 20,
    "title": "JARN Coaching - Launch Videos",
    "source": "freelancer.com",
    "company": "",
@@ -535,178 +715,6 @@
    ],
    "email": "",
    "kind": "gig"
-  },
-  {
-   "score": 20,
-   "title": "Social Media & Online Presence Audit VA |Short-Term Remote Project | $4 USD/hour",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-17",
-   "url": "https://www.freelancer.com/projects/social-media-management/Social-Media-Online-Presence-Audit.html",
-   "matched": [
-    "social media",
-    "data entry",
-    "youtube",
-    "brand"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 20,
-   "title": "AI Video Generation Using Blender",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/blender/Video-Generation-Using-Blender.html",
-   "matched": [
-    "video",
-    "video edit",
-    "animation",
-    "video editing",
-    "editing"
-   ],
-   "email": ""
-  },
-  {
-   "score": 20,
-   "title": "Full-Service Social Media Management",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/social-media-management/Full-Service-Social-Media-Management-40820357.html",
-   "matched": [
-    "social media",
-    "graphic design",
-    "design",
-    "youtube",
-    "brand"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 20,
-   "title": "AI Talking Avatar Creation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/ai-video-editing/Talking-Avatar-Twin-Creation.html",
-   "matched": [
-    "video edit",
-    "animation",
-    "ai training",
-    "video editing",
-    "video",
-    "editing"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 20,
-   "title": "Warehouse Clothing Inventory Data Entry -- 2",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/visual-basic/Warehouse-Clothing-Inventory-Data-Entry.html",
-   "matched": [
-    "data entry",
-    "data analysis",
-    "excel"
-   ],
-   "email": ""
-  },
-  {
-   "score": 19,
-   "title": "Men's Classic Fashion Collection Design",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-18",
-   "url": "https://www.freelancer.com/projects/adobe-illustrator/Men-Classic-Fashion-Collection-Design.html",
-   "matched": [
-    "design",
-    "logo",
-    "graphic design",
-    "designer",
-    "brand"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 19,
-   "title": "Wikipedia Article Creation for Public Figure",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/content-writing/Wikipedia-Article-Creation-for-Public.html",
-   "matched": [
-    "article",
-    "content writ",
-    "proofread",
-    "editor",
-    "editing"
-   ],
-   "email": ""
-  },
-  {
-   "score": 19,
-   "title": "Wikipedia Milestone Article Update",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/content-writing/Wikipedia-Milestone-Article-Update.html",
-   "matched": [
-    "article",
-    "content writ",
-    "proofread",
-    "editor",
-    "editing"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 19,
-   "title": "Academic Interior Design Magazine Creation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/content-writing/Academic-Interior-Design-Magazine.html",
-   "matched": [
-    "design",
-    "content writ",
-    "graphic design",
-    "designer",
-    "editorial"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 19,
-   "title": "Administrative Data Entry Deliverables",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/data-entry/Administrative-Data-Entry-Deliverables.html",
-   "matched": [
-    "data entry",
-    "excel",
-    "transcription"
-   ],
-   "email": ""
   }
  ]
 }
