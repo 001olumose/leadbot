@@ -1,7 +1,45 @@
 {
- "generated": "2026-11-20T15:25:40+00:00",
+ "generated": "2026-11-20T18:02:16+00:00",
  "count": 40,
  "leads": [
+  {
+   "score": 40,
+   "title": "Premium Flooring Brand Identity Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/branding/Premium-Flooring-Brand-Identity-Design.html",
+   "matched": [
+    "brand identity",
+    "design",
+    "brand",
+    "logo",
+    "graphic design",
+    "designer"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 38,
+   "title": "Modern Minimalist Brand Logo Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/branding/Modern-Minimalist-Brand-Logo-Design-40827966.html",
+   "matched": [
+    "logo",
+    "design",
+    "brand",
+    "brand identity",
+    "graphic design",
+    "designer"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
   {
    "score": 36,
    "title": "Modern Logo and Advertising Banner Design",
@@ -76,6 +114,44 @@
     "youtube"
    ],
    "email": ""
+  },
+  {
+   "score": 31,
+   "title": "App Store Promo Video Edit",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/App-Store-Promo-Video-Edit.html",
+   "matched": [
+    "video edit",
+    "video",
+    "motion graphic",
+    "video editing",
+    "design",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 30,
+   "title": "Instagram Reels Video Editor Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/content-creation/Instagram-Reels-Video-Editor-Needed-40827986.html",
+   "matched": [
+    "editor",
+    "reels",
+    "video",
+    "video edit",
+    "video editing",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig"
   },
   {
    "score": 30,
@@ -597,6 +673,23 @@
   },
   {
    "score": 21,
+   "title": "25-Minute 2D Moral Animation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/2d-animation/Minute-Moral-Animation.html",
+   "matched": [
+    "animation",
+    "motion graphic",
+    "animated",
+    "storyboard"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 21,
    "title": "Grow My YouTube Channel to Monetisation",
    "source": "freelancer.com",
    "company": "",
@@ -630,94 +723,6 @@
     "brand"
    ],
    "email": ""
-  },
-  {
-   "score": 21,
-   "title": "Quick Academic Proofreading Needed",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/microsoft-word/Quick-Academic-Proofreading-Needed.html",
-   "matched": [
-    "proofread",
-    "research writ",
-    "editing"
-   ],
-   "email": ""
-  },
-  {
-   "score": 21,
-   "title": "Content Creator - YouTube",
-   "source": "remotive",
-   "company": "Metics Media",
-   "location": "USA, Canada",
-   "posted": "2026-11-13",
-   "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
-   "matched": [
-    "youtube",
-    "editor",
-    "video script",
-    "video edit",
-    "video editing",
-    "video"
-   ],
-   "email": "",
-   "kind": "job"
-  },
-  {
-   "score": 21,
-   "title": "Content Creator - Youtube",
-   "source": "weworkremotely",
-   "company": "Metics Media",
-   "location": "Remote",
-   "posted": "2026-11-13",
-   "url": "https://weworkremotely.com/remote-jobs/metics-media-content-creator-youtube",
-   "matched": [
-    "youtube",
-    "editor",
-    "video script",
-    "video edit",
-    "video editing",
-    "video"
-   ],
-   "email": "",
-   "kind": "job"
-  },
-  {
-   "score": 20,
-   "title": "Fast Excel Data Typing -- 2",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-20",
-   "url": "https://www.freelancer.com/projects/data-management/Fast-Excel-Data-Typing-40827823.html",
-   "matched": [
-    "excel",
-    "data analysis",
-    "data entry",
-    "annotation"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 20,
-   "title": "Insights & Data Analyst / BI Developer (m/w/d)",
-   "source": "arbeitnow",
-   "company": "Little Dot Studios Deutschland",
-   "location": "Berlin",
-   "posted": "2026-11-20",
-   "url": "https://www.arbeitnow.com/jobs/companies/little-dot-studios-deutschland/insights-data-analyst-bi-developer-berlin-407228",
-   "matched": [
-    "data analyst",
-    "python",
-    "dashboard",
-    "youtube",
-    "social media"
-   ],
-   "email": "",
-   "kind": "job"
   }
  ]
 }
