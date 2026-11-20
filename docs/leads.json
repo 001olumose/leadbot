@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T18:42:13+00:00",
+ "generated": "2026-11-20T15:25:40+00:00",
  "count": 40,
  "leads": [
   {
@@ -686,15 +686,16 @@
   },
   {
    "score": 20,
-   "title": "Product Data Entry Conversion",
+   "title": "Fast Excel Data Typing -- 2",
    "source": "freelancer.com",
    "company": "",
    "location": "Remote",
-   "posted": "2026-11-19",
-   "url": "https://www.freelancer.com/projects/data-management/Product-Data-Entry-Conversion.html",
+   "posted": "2026-11-20",
+   "url": "https://www.freelancer.com/projects/data-management/Fast-Excel-Data-Typing-40827823.html",
    "matched": [
-    "data entry",
     "excel",
+    "data analysis",
+    "data entry",
     "annotation"
    ],
    "email": "",
@@ -702,19 +703,21 @@
   },
   {
    "score": 20,
-   "title": "Handwritten Contacts Data Entry",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-19",
-   "url": "https://www.freelancer.com/projects/google-sheets/Handwritten-Contacts-Data-Entry.html",
+   "title": "Insights & Data Analyst / BI Developer (m/w/d)",
+   "source": "arbeitnow",
+   "company": "Little Dot Studios Deutschland",
+   "location": "Berlin",
+   "posted": "2026-11-20",
+   "url": "https://www.arbeitnow.com/jobs/companies/little-dot-studios-deutschland/insights-data-analyst-bi-developer-berlin-407228",
    "matched": [
-    "data entry",
-    "excel",
-    "annotation"
+    "data analyst",
+    "python",
+    "dashboard",
+    "youtube",
+    "social media"
    ],
    "email": "",
-   "kind": "gig"
+   "kind": "job"
   }
  ]
 }
