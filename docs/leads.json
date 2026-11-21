@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T18:00:09+00:00",
- "count": 40,
+ "generated": "2026-11-21T18:03:21+00:00",
+ "count": 20,
  "leads": [
   {
    "score": 47,
@@ -65,63 +65,6 @@
    "qualified": true
   },
   {
-   "score": 43,
-   "title": "Beginner Logo Designer Needed for Small Business Branding",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/vector-design/Beginner-Logo-Designer-Needed-for.html",
-   "matched": [
-    "logo",
-    "designer",
-    "design",
-    "brand",
-    "graphic design",
-    "packaging"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 38,
-   "title": "New client request · Brand & identity · found 9 min ago A client needs a freelance graphic designer to create social me…",
-   "source": "bluesky",
-   "company": "intentpond.bsky.social",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-19",
-   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2ogwf25x526",
-   "matched": [
-    "graphic design",
-    "designer",
-    "design",
-    "brand",
-    "social media"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 35,
-   "title": "New client request · Marketing copy · found 9 days ago A client needs a US copywriter and video scriptwriter for its pr…",
-   "source": "bluesky",
-   "company": "intentpond.bsky.social",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-18",
-   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2m56gkeby2h",
-   "matched": [
-    "copywrit",
-    "scriptwrit",
-    "video",
-    "brand"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
    "score": 34,
    "title": "YouTube Brand Promotion Video Needed",
    "source": "freelancer.com",
@@ -160,83 +103,6 @@
    ],
    "email": "",
    "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 30,
-   "title": "Graphic Designer: Print, Brand & Web",
-   "source": "dribbble",
-   "company": "Overseas Media Group",
-   "location": "Remote",
-   "posted": "2026-11-18",
-   "url": "https://dribbble.com/jobs/311924-Graphic-Designer-Print-Brand-Web",
-   "matched": [
-    "graphic design",
-    "designer",
-    "design",
-    "brand"
-   ],
-   "email": "",
-   "kind": "job",
-   "qualified": true
-  },
-  {
-   "score": 28,
-   "title": "Polished Personal Video Edit",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Polished-Personal-Video-Edit-40829080.html",
-   "matched": [
-    "video edit",
-    "video",
-    "editor",
-    "video editing",
-    "editing"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 28,
-   "title": "Website Form Data Entry",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/copywriting/Website-Form-Data-Entry.html",
-   "matched": [
-    "data entry",
-    "copywrit",
-    "web design",
-    "wordpress",
-    "dashboard",
-    "excel"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 27,
-   "title": "Accurate Transcription and Typing Assistance",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/typing/Accurate-Transcription-Typing-Assistance.html",
-   "matched": [
-    "transcription",
-    "proofread",
-    "video edit",
-    "data entry",
-    "video editing",
-    "video"
-   ],
-   "email": "",
    "kind": "gig",
    "qualified": true
   },
@@ -284,39 +150,22 @@
   },
   {
    "score": 26,
-   "title": "Game Review Article Content Writer",
+   "title": "Skilled Video Editor Needed",
    "source": "freelancer.com",
    "company": "",
    "location": "Remote",
    "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/research/Game-Review-Article-Content-Writer.html",
+   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Skilled-Video-Editor-Needed-40829221.html",
    "matched": [
-    "content writ",
-    "article",
-    "ghostwrit",
-    "blog"
+    "editor",
+    "video",
+    "video edit",
+    "video editing",
+    "reels",
+    "youtube"
    ],
    "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 26,
-   "title": "Content Writing task beginners and newly experienced levels",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/blog-writing/Content-Writing-task-beginners-newly-40829166.html",
-   "matched": [
-    "content writ",
-    "ghostwrit",
-    "copywrit",
-    "blog",
-    "article",
-    "editing"
-   ],
-   "email": "",
+   "contact": "link",
    "kind": "gig",
    "qualified": true
   },
@@ -339,78 +188,6 @@
    "email": "sjwanle@wcs.org",
    "contact": "email",
    "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 26,
-   "title": "Graphic & Motion Designer (AI + remote)",
-   "source": "dribbble",
-   "company": "AllFeams",
-   "location": "Remote",
-   "posted": "2026-11-12",
-   "url": "https://dribbble.com/jobs/311693-Graphic-Motion-Designer-AI-remote",
-   "matched": [
-    "designer",
-    "design",
-    "motion design"
-   ],
-   "email": "",
-   "kind": "job",
-   "qualified": true
-  },
-  {
-   "score": 25,
-   "title": "UI Designer - Casual Games (Freelance Remote)",
-   "source": "arbeitnow",
-   "company": "SOFTGAMES",
-   "location": "Remote job",
-   "posted": "2026-11-20",
-   "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
-   "matched": [
-    "ui design",
-    "designer",
-    "design",
-    "animation",
-    "figma"
-   ],
-   "email": "",
-   "kind": "job",
-   "qualified": true
-  },
-  {
-   "score": 24,
-   "title": "Webador Website Redesign",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/web-design/Webador-Website-Redesign.html",
-   "matched": [
-    "redesign",
-    "graphic design",
-    "website design",
-    "web design",
-    "design"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 24,
-   "title": "Graphic Designer",
-   "source": "dribbble",
-   "company": "CRH Medical Corporation",
-   "location": "Remote",
-   "posted": "2026-11-12",
-   "url": "https://dribbble.com/jobs/311726-Graphic-Designer",
-   "matched": [
-    "graphic design",
-    "designer",
-    "design"
-   ],
-   "email": "",
-   "kind": "job",
    "qualified": true
   },
   {
@@ -477,26 +254,6 @@
   },
   {
    "score": 21,
-   "title": "Romantic Love Story Lecture Notes",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/content-writing/Romantic-Love-Story-Lecture-Notes.html",
-   "matched": [
-    "ghostwrit",
-    "copywrit",
-    "content writ",
-    "article",
-    "proofread",
-    "research writ"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 21,
    "title": "📝 Technical Writer at ActioNet 📍United States | Remote Job 💵 $75,000 - $90,000 / year ActioNet is looking for an experi…",
    "source": "bluesky",
    "company": "kor4e.bsky.social",
@@ -550,23 +307,6 @@
   },
   {
    "score": 20,
-   "title": "Application Forms Data Entry",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/data-processing/Application-Forms-Data-Entry.html",
-   "matched": [
-    "data entry",
-    "excel",
-    "annotation"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 20,
    "title": "Fix Critical WordPress Error",
    "source": "freelancer.com",
    "company": "",
@@ -585,18 +325,20 @@
   },
   {
    "score": 20,
-   "title": "New client request · Content writing · found 8 h ago A client needs a freelance content writer for LinkedIn posts, Inst…",
-   "source": "bluesky",
-   "company": "intentpond.bsky.social",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-19",
-   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2nm4jj7nu2d",
+   "title": "Service Booking Website & Admin Dashboard",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/web-development/Service-Booking-Website-Admin-Dashboard.html",
    "matched": [
-    "content writ",
-    "copywrit",
-    "youtube"
+    "dashboard",
+    "website design",
+    "wordpress",
+    "design"
    ],
    "email": "",
+   "contact": "link",
    "kind": "gig",
    "qualified": true
   },
@@ -623,26 +365,6 @@
   },
   {
    "score": 19,
-   "title": "Daily Instagram Growth Manager -- 2",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/social-media-management/Daily-Instagram-Growth-Manager-40828729.html",
-   "matched": [
-    "video edit",
-    "video editing",
-    "reels",
-    "video",
-    "editing",
-    "social media"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 19,
    "title": "Consultant – Assessment and Design of an Integrated Digital Information, Knowledge and MEL Management System",
    "source": "reliefweb",
    "company": "Impunity Watch",
@@ -662,31 +384,12 @@
   },
   {
    "score": 18,
-   "title": "Original SEO Astrology Blogs",
+   "title": "Panduan Langkah Tugas Bahasa",
    "source": "freelancer.com",
    "company": "",
    "location": "Remote",
    "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/blog-writing/Original-SEO-Astrology-Blogs.html",
-   "matched": [
-    "blog",
-    "ghostwrit",
-    "content writ",
-    "article",
-    "content strategy"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "Penerjemahan Dokumen Akurat",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/proofreading/Penerjemahan-Dokumen-Akurat.html",
+   "url": "https://www.freelancer.com/projects/content-writing/Panduan-Langkah-Tugas-Bahasa.html",
    "matched": [
     "copywrit",
     "content writ",
@@ -695,77 +398,7 @@
     "editing"
    ],
    "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "Roblox Apocalyptic Trailer Creation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/3d-animation/Roblox-Apocalyptic-Trailer-Creation.html",
-   "matched": [
-    "video edit",
-    "animation",
-    "video editing",
-    "design",
-    "video",
-    "editing"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "Web Design and Marketing Partners",
-   "source": "nodesk",
-   "company": "B12",
-   "location": "Remote",
-   "posted": "2026-11-20",
-   "url": "https://nodesk.co/remote-jobs/b12-web-design-and-marketing-partners/",
-   "matched": [
-    "web design",
-    "design",
-    "designer"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "Product Designer",
-   "source": "weworkremotely",
-   "company": "Tebra",
-   "location": "Remote",
-   "posted": "2026-11-19",
-   "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
-   "matched": [
-    "designer",
-    "design",
-    "figma",
-    "video",
-    "social media"
-   ],
-   "email": "",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "New client request · Marketing copy · found 19 min ago A client needs a freelance copywriter for an upcoming project wi…",
-   "source": "bluesky",
-   "company": "intentpond.bsky.social",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-19",
-   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2olxrlkqy2j",
-   "matched": [
-    "copywrit"
-   ],
-   "email": "",
+   "contact": "link",
    "kind": "gig",
    "qualified": true
   }
