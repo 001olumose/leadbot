@@ -42,14 +42,19 @@ def main(new_path: Path, feed_path: Path) -> int:
     old = load(feed_path)
     feed_exists = feed_path.exists()
 
-    incoming = [lead for lead in (new.get("leads") or []) if lead.get("url")]
+    # a lead with no address and no live page to reply to is not published
+    incoming = [
+        lead
+        for lead in (new.get("leads") or [])
+        if lead.get("url") and (lead.get("contact") or lead.get("email"))
+    ]
     if feed_exists and not incoming:
         print("no new leads this run - keeping the published list")
         return 0
 
     rows: dict[str, dict] = {}
     for lead in old.get("leads") or []:
-        if lead.get("url"):
+        if lead.get("url") and (lead.get("contact") or lead.get("email")):
             rows[lead["url"]] = dict(lead)
 
     added = 0
