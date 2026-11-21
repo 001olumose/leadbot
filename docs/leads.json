@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:02:16+00:00",
+ "generated": "2026-11-21T14:37:51+00:00",
  "count": 40,
  "leads": [
   {
@@ -36,6 +36,25 @@
     "brand identity",
     "graphic design",
     "designer"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 36,
+   "title": "Entry-Level Logo Designer Wanted",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/adobe-illustrator/Entry-Level-Logo-Designer-Wanted.html",
+   "matched": [
+    "logo",
+    "designer",
+    "design",
+    "graphic design",
+    "packaging",
+    "brand"
    ],
    "email": "",
    "kind": "gig"
@@ -114,6 +133,44 @@
     "youtube"
    ],
    "email": ""
+  },
+  {
+   "score": 31,
+   "title": "Beginner level content writer needed, hiring",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/blog-writing/Beginner-level-content-writer-needed-40829013.html",
+   "matched": [
+    "content writ",
+    "ghostwrit",
+    "copywrit",
+    "technical writ",
+    "blog post",
+    "blog"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 31,
+   "title": "Modernize My WordPress Site",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/web-design/Modernize-WordPress-Site.html",
+   "matched": [
+    "wordpress",
+    "graphic design",
+    "website design",
+    "web design",
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "kind": "gig"
   },
   {
    "score": 31,
@@ -263,6 +320,59 @@
    ],
    "email": "",
    "kind": "job"
+  },
+  {
+   "score": 27,
+   "title": "Free Theme WordPress Trading Blog",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/web-design/Free-Theme-WordPress-Trading-Blog.html",
+   "matched": [
+    "blog",
+    "wordpress",
+    "website design",
+    "web design",
+    "design"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 27,
+   "title": "Real Estate Listing Website Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/web-design/Real-Estate-Listing-Website-Design.html",
+   "matched": [
+    "website design",
+    "design",
+    "web design",
+    "wordpress"
+   ],
+   "email": "",
+   "kind": "gig"
+  },
+  {
+   "score": 27,
+   "title": "Modern Food Packaging Sticker Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/adobe-illustrator/Modern-Food-Packaging-Sticker-Design.html",
+   "matched": [
+    "design",
+    "packaging",
+    "logo",
+    "graphic design",
+    "brand"
+   ],
+   "email": "",
+   "kind": "gig"
   },
   {
    "score": 27,
@@ -418,6 +528,24 @@
     "designer",
     "design",
     "motion design"
+   ],
+   "email": "",
+   "kind": "job"
+  },
+  {
+   "score": 25,
+   "title": "UI Designer - Casual Games (Freelance Remote)",
+   "source": "arbeitnow",
+   "company": "SOFTGAMES",
+   "location": "Remote job",
+   "posted": "2026-11-20",
+   "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
+   "matched": [
+    "ui design",
+    "designer",
+    "design",
+    "animation",
+    "figma"
    ],
    "email": "",
    "kind": "job"
@@ -600,129 +728,6 @@
    ],
    "email": "recruiting@jamf.com",
    "kind": "gig"
-  },
-  {
-   "score": 22,
-   "title": "Creative Designer (m/w/d)",
-   "source": "himalayas",
-   "company": "Neolymp",
-   "location": "Germany",
-   "posted": "2026-11-18",
-   "url": "https://himalayas.app/companies/neolymp/jobs/creative-designer-m-w-d",
-   "matched": [
-    "designer",
-    "design",
-    "figma",
-    "banner",
-    "reels",
-    "video"
-   ],
-   "email": "",
-   "kind": "job"
-  },
-  {
-   "score": 22,
-   "title": "Fast-Paced Travel Reel Editing",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Fast-Paced-Travel-Reel-Editing-40820301.html",
-   "matched": [
-    "editing",
-    "video edit",
-    "video editing",
-    "reels",
-    "video"
-   ],
-   "email": ""
-  },
-  {
-   "score": 22,
-   "title": "Content Writer",
-   "source": "jobspresso",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://jobspresso.co/job/content-writer-3/",
-   "matched": [
-    "content writ",
-    "article",
-    "editor",
-    "sponsorship",
-    "designer",
-    "design"
-   ],
-   "email": ""
-  },
-  {
-   "score": 22,
-   "title": "10-Minute 2D Animated Story",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-15",
-   "url": "https://www.freelancer.com/projects/2d-animation/Minute-Animated-Story.html",
-   "matched": [
-    "animated",
-    "explainer video",
-    "animation",
-    "video"
-   ],
-   "email": ""
-  },
-  {
-   "score": 21,
-   "title": "25-Minute 2D Moral Animation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-20",
-   "url": "https://www.freelancer.com/projects/2d-animation/Minute-Moral-Animation.html",
-   "matched": [
-    "animation",
-    "motion graphic",
-    "animated",
-    "storyboard"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 21,
-   "title": "Grow My YouTube Channel to Monetisation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-19",
-   "url": "https://www.freelancer.com/projects/video-editing/Grow-YouTube-Channel-Monetisation.html",
-   "matched": [
-    "youtube",
-    "video edit",
-    "video editing",
-    "video",
-    "editing",
-    "social media"
-   ],
-   "email": "",
-   "kind": "gig"
-  },
-  {
-   "score": 21,
-   "title": "Modern Radio Packaging Redesign",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-16",
-   "url": "https://www.freelancer.com/projects/packaging-design/Modern-Radio-Packaging-Redesign.html",
-   "matched": [
-    "redesign",
-    "graphic design",
-    "designer",
-    "design",
-    "brand"
-   ],
-   "email": ""
   }
  ]
 }
