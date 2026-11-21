@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T18:20:00+00:00",
- "count": 17,
+ "generated": "2026-11-21T18:20:24+00:00",
+ "count": 21,
  "leads": [
   {
    "score": 47,
@@ -10,7 +10,14 @@
    "location": "Remote",
    "posted": "2026-11-19",
    "url": "https://reliefweb.int/job/4239067/lead-evaluator-baseline-assessment-multi-year-grants-human-rights-organisations",
-   "matched": ["grant", "baseline", "assessment", "data analysis", "harvest", "proposal"],
+   "matched": [
+    "grant",
+    "baseline",
+    "assessment",
+    "data analysis",
+    "harvest",
+    "proposal"
+   ],
    "email": "mchora@fghr.org",
    "contact": "email",
    "kind": "gig",
@@ -24,9 +31,36 @@
    "location": "Somalia",
    "posted": "2026-11-19",
    "url": "https://reliefweb.int/job/4239028/consultancy-ecw-fer-drought-response-project-baseline-endline-evaluation",
-   "matched": ["evaluation", "baseline", "data analysis", "statistical", "survey", "proposal"],
+   "matched": [
+    "evaluation",
+    "baseline",
+    "data analysis",
+    "statistical",
+    "survey",
+    "proposal"
+   ],
    "email": "so.procurement@nrc.no",
    "contact": "email",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 39,
+   "title": "Beginner Logo Designer Needed for Small Business Branding",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/adobe-illustrator/Beginner-Logo-Designer-Needed-for-40829240.html",
+   "matched": [
+    "logo",
+    "designer",
+    "design",
+    "brand",
+    "graphic design"
+   ],
+   "email": "",
+   "contact": "link",
    "kind": "gig",
    "qualified": true
   },
@@ -38,7 +72,14 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/motion-graphics/YouTube-Brand-Promotion-Video-Needed.html",
-   "matched": ["video", "youtube", "brand", "motion graphic", "video edit", "animation"],
+   "matched": [
+    "video",
+    "youtube",
+    "brand",
+    "motion graphic",
+    "video edit",
+    "animation"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -52,7 +93,35 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/blog-writing/Beginner-newly-experienced-Levels.html",
-   "matched": ["content writ", "ghostwrit", "copywrit", "blog post", "blog", "article"],
+   "matched": [
+    "content writ",
+    "ghostwrit",
+    "copywrit",
+    "blog post",
+    "blog",
+    "article"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 27,
+   "title": "Family Christmas Animation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/2d-animation/Family-Christmas-Animation.html",
+   "matched": [
+    "animation",
+    "explainer video",
+    "video edit",
+    "video editing",
+    "video",
+    "youtube"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -66,7 +135,14 @@
    "location": "Nigeria",
    "posted": "2026-11-20",
    "url": "https://reliefweb.int/job/4239243/endline-evaluation-consultant",
-   "matched": ["evaluation", "data analysis", "data entry", "survey", "excel", "transcription"],
+   "matched": [
+    "evaluation",
+    "data analysis",
+    "data entry",
+    "survey",
+    "excel",
+    "transcription"
+   ],
    "email": "nigeria.procurement@plan-international.org",
    "contact": "email",
    "kind": "gig",
@@ -80,7 +156,14 @@
    "location": "Canada",
    "posted": "2026-11-18",
    "url": "https://reliefweb.int/job/4238766/endline-consultant",
-   "matched": ["data analysis", "spss", "survey", "excel", "proposal", "design"],
+   "matched": [
+    "data analysis",
+    "spss",
+    "survey",
+    "excel",
+    "proposal",
+    "design"
+   ],
    "email": "gtimpl@savethechildren.ca",
    "contact": "email",
    "kind": "gig",
@@ -94,7 +177,14 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Skilled-Video-Editor-Needed-40829221.html",
-   "matched": ["editor", "video", "video edit", "video editing", "reels", "youtube"],
+   "matched": [
+    "editor",
+    "video",
+    "video edit",
+    "video editing",
+    "reels",
+    "youtube"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -108,7 +198,14 @@
    "location": "Nigeria",
    "posted": "2026-11-18",
    "url": "https://reliefweb.int/job/4238931/request-proposal-consultancy-developing-management-plan-cross-river-national-park",
-   "matched": ["proposal", "survey", "literature review", "evaluation", "baseline", "assessment"],
+   "matched": [
+    "proposal",
+    "survey",
+    "literature review",
+    "evaluation",
+    "baseline",
+    "assessment"
+   ],
    "email": "sjwanle@wcs.org",
    "contact": "email",
    "kind": "gig",
@@ -122,7 +219,33 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/3d-visualization/Premium-Gym-Interior-Animation.html",
-   "matched": ["animation", "video edit", "video editing", "video", "editing"],
+   "matched": [
+    "animation",
+    "video edit",
+    "video editing",
+    "video",
+    "editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 23,
+   "title": "Tech Skills Blog Articles Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/article-writing/Tech-Skills-Blog-Articles-Needed.html",
+   "matched": [
+    "blog",
+    "article",
+    "content writ",
+    "technical writ",
+    "blog post"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -136,7 +259,14 @@
    "location": "Nigeria",
    "posted": "2026-11-19",
    "url": "https://reliefweb.int/job/4239123/terms-reference-knowledge-products-development-consultancy",
-   "matched": ["case study", "proposal", "design", "illustrat", "presentation", "evaluation"],
+   "matched": [
+    "case study",
+    "proposal",
+    "design",
+    "illustrat",
+    "presentation",
+    "evaluation"
+   ],
    "email": "micheal.ojediran@cbm-global.org",
    "contact": "email",
    "kind": "gig",
@@ -150,7 +280,14 @@
    "location": "Kenya",
    "posted": "2026-11-18",
    "url": "https://reliefweb.int/job/4238954/broadcasting-interactive-radio-awareness-programmes-protection-child-protection-gender-equality-inclusion-technology-facilitated-gender-base",
-   "matched": ["logo", "survey", "proposal", "design", "social media", "packaging"],
+   "matched": [
+    "logo",
+    "survey",
+    "proposal",
+    "design",
+    "social media",
+    "packaging"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -164,7 +301,12 @@
    "location": "Remote",
    "posted": "2026-11-20",
    "url": "https://reliefweb.int/job/4239206/independent-evaluation-expert-consultancy-services",
-   "matched": ["evaluation", "design", "presentation", "data collection"],
+   "matched": [
+    "evaluation",
+    "design",
+    "presentation",
+    "data collection"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -178,7 +320,11 @@
    "location": "Eastern and Southern Africa",
    "posted": "2026-11-18",
    "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482420",
-   "matched": ["assessment", "statistical", "grant"],
+   "matched": [
+    "assessment",
+    "statistical",
+    "grant"
+   ],
    "email": "djagai@sadc.int",
    "contact": "email",
    "kind": "gig",
@@ -192,7 +338,11 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/google-website-optimizer/Fix-Critical-WordPress-Error.html",
-   "matched": ["wordpress", "website design", "design"],
+   "matched": [
+    "wordpress",
+    "website design",
+    "design"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -206,7 +356,12 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/web-development/Service-Booking-Website-Admin-Dashboard.html",
-   "matched": ["dashboard", "website design", "wordpress", "design"],
+   "matched": [
+    "dashboard",
+    "website design",
+    "wordpress",
+    "design"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
@@ -220,7 +375,14 @@
    "location": "India",
    "posted": "2026-11-18",
    "url": "https://reliefweb.int/job/4238895/subject-matter-expert-future-readiness-and-employability-sme",
-   "matched": ["proposal", "design", "illustrat", "presentation", "social media", "translat"],
+   "matched": [
+    "proposal",
+    "design",
+    "illustrat",
+    "presentation",
+    "social media",
+    "translat"
+   ],
    "email": "suppliers@girleffect.org",
    "contact": "email",
    "kind": "gig",
@@ -234,7 +396,33 @@
    "location": "Remote",
    "posted": "2026-11-19",
    "url": "https://reliefweb.int/job/4239087/consultant-assessment-and-design-integrated-digital-information-knowledge-and-mel-management-system",
-   "matched": ["design", "assessment", "proposal", "evaluation"],
+   "matched": [
+    "design",
+    "assessment",
+    "proposal",
+    "evaluation"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 16,
+   "title": "Editor de Animaciones 2D Sociales",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/2d-animation/Editor-Animaciones-Sociales.html",
+   "matched": [
+    "editor",
+    "video edit",
+    "animation",
+    "video editing",
+    "video",
+    "youtube"
+   ],
    "email": "",
    "contact": "link",
    "kind": "gig",
