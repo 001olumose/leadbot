@@ -1,7 +1,20 @@
 {
- "generated": "2026-11-21T15:51:15+00:00",
- "count": 5,
+ "generated": "2026-11-21T15:54:02+00:00",
+ "count": 13,
  "leads": [
+  {
+   "score": 30,
+   "title": "Graphic Designer: Print, Brand & Web",
+   "source": "dribbble",
+   "company": "Overseas Media Group",
+   "location": "Remote",
+   "posted": "2026-11-18",
+   "url": "https://dribbble.com/jobs/311924-Graphic-Designer-Print-Brand-Web",
+   "matched": ["graphic design", "designer", "design", "brand"],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
   {
    "score": 28,
    "title": "Polished Personal Video Edit",
@@ -10,13 +23,7 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Polished-Personal-Video-Edit-40829080.html",
-   "matched": [
-    "video edit",
-    "video",
-    "editor",
-    "video editing",
-    "editing"
-   ],
+   "matched": ["video edit", "video", "editor", "video editing", "editing"],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -29,14 +36,48 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/research/Game-Review-Article-Content-Writer.html",
-   "matched": [
-    "content writ",
-    "article",
-    "ghostwrit",
-    "blog"
-   ],
+   "matched": ["content writ", "article", "ghostwrit", "blog"],
    "email": "",
    "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 26,
+   "title": "Graphic & Motion Designer (AI + remote)",
+   "source": "dribbble",
+   "company": "AllFeams",
+   "location": "Remote",
+   "posted": "2026-11-12",
+   "url": "https://dribbble.com/jobs/311693-Graphic-Motion-Designer-AI-remote",
+   "matched": ["designer", "design", "motion design"],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 25,
+   "title": "UI Designer - Casual Games (Freelance Remote)",
+   "source": "arbeitnow",
+   "company": "SOFTGAMES",
+   "location": "Remote job",
+   "posted": "2026-11-20",
+   "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
+   "matched": ["ui design", "designer", "design", "animation", "figma"],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 24,
+   "title": "Graphic Designer",
+   "source": "dribbble",
+   "company": "CRH Medical Corporation",
+   "location": "Remote",
+   "posted": "2026-11-12",
+   "url": "https://dribbble.com/jobs/311726-Graphic-Designer",
+   "matched": ["graphic design", "designer", "design"],
+   "email": "",
+   "kind": "job",
    "qualified": true
   },
   {
@@ -47,14 +88,7 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/social-media-management/Daily-Instagram-Growth-Manager-40828729.html",
-   "matched": [
-    "video edit",
-    "video editing",
-    "reels",
-    "video",
-    "editing",
-    "social media"
-   ],
+   "matched": ["video edit", "video editing", "reels", "video", "editing", "social media"],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -67,13 +101,33 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/blog-writing/Original-SEO-Astrology-Blogs.html",
-   "matched": [
-    "blog",
-    "ghostwrit",
-    "content writ",
-    "article",
-    "content strategy"
-   ],
+   "matched": ["blog", "ghostwrit", "content writ", "article", "content strategy"],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "Web Design and Marketing Partners",
+   "source": "nodesk",
+   "company": "B12",
+   "location": "Remote",
+   "posted": "2026-11-20",
+   "url": "https://nodesk.co/remote-jobs/b12-web-design-and-marketing-partners/",
+   "matched": ["web design", "design", "designer"],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "Product Designer",
+   "source": "weworkremotely",
+   "company": "Tebra",
+   "location": "Remote",
+   "posted": "2026-11-19",
+   "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
+   "matched": ["designer", "design", "figma", "video", "social media"],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -86,13 +140,35 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/digital-marketing/Construction-Startup-Marketing-Branding.html",
-   "matched": [
-    "brand",
-    "wordpress",
-    "social media"
-   ],
+   "matched": ["brand", "wordpress", "social media"],
    "email": "",
    "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 15,
+   "title": "AI Creative Engineer (Social Media)",
+   "source": "weworkremotely",
+   "company": "Elvoro",
+   "location": "Remote",
+   "posted": "2026-11-18",
+   "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+   "matched": ["social media", "python", "prompt engineering", "video", "brand"],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 12,
+   "title": "AML and Compliance Experts: AI Training Tasks",
+   "source": "weworkremotely",
+   "company": "Terac",
+   "location": "Remote",
+   "posted": "2026-11-18",
+   "url": "https://weworkremotely.com/remote-jobs/terac-aml-and-compliance-experts-ai-training-tasks",
+   "matched": ["ai training", "design", "video", "youtube", "translat"],
+   "email": "",
+   "kind": "job",
    "qualified": true
   }
  ]
