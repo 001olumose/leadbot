@@ -1,5 +1,99 @@
 {
- "generated": "2026-11-21T15:52:00+00:00",
- "count": 0,
- "leads": []
+ "generated": "2026-11-21T15:51:15+00:00",
+ "count": 5,
+ "leads": [
+  {
+   "score": 28,
+   "title": "Polished Personal Video Edit",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Polished-Personal-Video-Edit-40829080.html",
+   "matched": [
+    "video edit",
+    "video",
+    "editor",
+    "video editing",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 26,
+   "title": "Game Review Article Content Writer",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/research/Game-Review-Article-Content-Writer.html",
+   "matched": [
+    "content writ",
+    "article",
+    "ghostwrit",
+    "blog"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 19,
+   "title": "Daily Instagram Growth Manager -- 2",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/social-media-management/Daily-Instagram-Growth-Manager-40828729.html",
+   "matched": [
+    "video edit",
+    "video editing",
+    "reels",
+    "video",
+    "editing",
+    "social media"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "Original SEO Astrology Blogs",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/blog-writing/Original-SEO-Astrology-Blogs.html",
+   "matched": [
+    "blog",
+    "ghostwrit",
+    "content writ",
+    "article",
+    "content strategy"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 16,
+   "title": "Construction Startup Marketing & Branding",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/digital-marketing/Construction-Startup-Marketing-Branding.html",
+   "matched": [
+    "brand",
+    "wordpress",
+    "social media"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  }
+ ]
 }
