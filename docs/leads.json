@@ -1,7 +1,64 @@
 {
- "generated": "2026-11-21T16:57:41+00:00",
- "count": 20,
+ "generated": "2026-11-21T17:40:10+00:00",
+ "count": 40,
  "leads": [
+  {
+   "score": 43,
+   "title": "Beginner Logo Designer Needed for Small Business Branding",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/vector-design/Beginner-Logo-Designer-Needed-for.html",
+   "matched": [
+    "logo",
+    "designer",
+    "design",
+    "brand",
+    "graphic design",
+    "packaging"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 38,
+   "title": "New client request · Brand & identity · found 9 min ago A client needs a freelance graphic designer to create social me…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-19",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2ogwf25x526",
+   "matched": [
+    "graphic design",
+    "designer",
+    "design",
+    "brand",
+    "social media"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 35,
+   "title": "New client request · Marketing copy · found 9 days ago A client needs a US copywriter and video scriptwriter for its pr…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-18",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2m56gkeby2h",
+   "matched": [
+    "copywrit",
+    "scriptwrit",
+    "video",
+    "brand"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
   {
    "score": 30,
    "title": "Graphic Designer: Print, Brand & Web",
@@ -34,6 +91,26 @@
     "editor",
     "video editing",
     "editing"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 28,
+   "title": "Website Form Data Entry",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/copywriting/Website-Form-Data-Entry.html",
+   "matched": [
+    "data entry",
+    "copywrit",
+    "web design",
+    "wordpress",
+    "dashboard",
+    "excel"
    ],
    "email": "",
    "kind": "gig",
@@ -190,6 +267,23 @@
    "qualified": true
   },
   {
+   "score": 21,
+   "title": "TISSTAT – Assessment on Statistics",
+   "source": "world bank",
+   "company": "Southern African Development Community",
+   "location": "Eastern and Southern Africa",
+   "posted": "2026-11-18",
+   "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482420",
+   "matched": [
+    "assessment",
+    "statistical",
+    "grant"
+   ],
+   "email": "djagai@sadc.int",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
    "score": 20,
    "title": "Application Forms Data Entry",
    "source": "freelancer.com",
@@ -201,6 +295,23 @@
     "data entry",
     "excel",
     "annotation"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 20,
+   "title": "New client request · Content writing · found 8 h ago A client needs a freelance content writer for LinkedIn posts, Inst…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-19",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2nm4jj7nu2d",
+   "matched": [
+    "content writ",
+    "copywrit",
+    "youtube"
    ],
    "email": "",
    "kind": "gig",
@@ -321,6 +432,85 @@
    "qualified": true
   },
   {
+   "score": 18,
+   "title": "New client request · Marketing copy · found 19 min ago A client needs a freelance copywriter for an upcoming project wi…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-19",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2olxrlkqy2j",
+   "matched": [
+    "copywrit"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "⚡ Remote Lead Creative (Motion Design) at Superside",
+   "source": "mastodon #designjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-18",
+   "url": "https://mastodon.social/@Remotely/117638291801644574",
+   "matched": [
+    "design",
+    "motion design"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "TISSTAT – Assessment on ICT Infrastructure",
+   "source": "world bank",
+   "company": "Southern African Development Community",
+   "location": "Eastern and Southern Africa",
+   "posted": "2026-11-18",
+   "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482423",
+   "matched": [
+    "assessment",
+    "grant"
+   ],
+   "email": "djagai@sadc.int",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "DataNB is looking for a Data Analyst. The role is suitable for someone with a background/research experience in economi…",
+   "source": "bluesky",
+   "company": "pablo-miah.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-13",
+   "url": "https://bsky.app/profile/pablo-miah.bsky.social/post/3n27my3agik2p",
+   "matched": [
+    "data analyst"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 17,
+   "title": "⚡ Remote Product Designer – Content Solutions at Fueled",
+   "source": "mastodon #copywriting",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-17",
+   "url": "https://mastodon.social/@Remotely/117629583794338132",
+   "matched": [
+    "designer",
+    "design",
+    "copywrit"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
    "score": 16,
    "title": "Construction Startup Marketing & Branding",
    "source": "freelancer.com",
@@ -335,6 +525,38 @@
    ],
    "email": "",
    "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 16,
+   "title": "A client asks for a 60-second video. Only four 5-second shots need AI. If your editor keeps half the takes, budget for…",
+   "source": "bluesky",
+   "company": "millgrah.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-20",
+   "url": "https://bsky.app/profile/millgrah.bsky.social/post/3n2rjmko6dc2l",
+   "matched": [
+    "editor",
+    "video"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 16,
+   "title": "Looking for a gaming video editor for my YT channel, ImGoodUrBad! Need someone experienced with fast-paced, high-retent…",
+   "source": "bluesky",
+   "company": "imgoodurbad.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-18",
+   "url": "https://bsky.app/profile/imgoodurbad.bsky.social/post/3n2kfevctzc2v",
+   "matched": [
+    "editor",
+    "video"
+   ],
+   "email": "",
+   "kind": "job",
    "qualified": true
   },
   {
@@ -357,22 +579,128 @@
    "qualified": true
   },
   {
-   "score": 12,
-   "title": "AML and Compliance Experts: AI Training Tasks",
-   "source": "weworkremotely",
-   "company": "Terac",
-   "location": "Remote",
-   "posted": "2026-11-18",
-   "url": "https://weworkremotely.com/remote-jobs/terac-aml-and-compliance-experts-ai-training-tasks",
+   "score": 14,
+   "title": "⚡ Remote Copywriter at Phantom",
+   "source": "mastodon #copywriting",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-20",
+   "url": "https://mastodon.social/@Remotely/117649123511166252",
    "matched": [
-    "ai training",
-    "design",
+    "copywrit"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 14,
+   "title": "⚡ Remote Conceptual Copywriter at Superside",
+   "source": "mastodon #writingjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-20",
+   "url": "https://mastodon.social/@Remotely/117646687538021069",
+   "matched": [
+    "copywrit"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 14,
+   "title": "New project, FusionCreate. Multiple different types of editors in the same program. I've coded this almost entirely wit…",
+   "source": "bluesky",
+   "company": "jamiebalfour.scot",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-19",
+   "url": "https://bsky.app/profile/jamiebalfour.scot/post/3n2okmp3j2s2l",
+   "matched": [
+    "editor",
     "video",
-    "youtube",
     "translat"
    ],
    "email": "",
    "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 14,
+   "title": "⚡ Remote Marketing Designer at Playson",
+   "source": "mastodon #designjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-16",
+   "url": "https://mastodon.social/@Remotely/117623979171117158",
+   "matched": [
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 14,
+   "title": "We’re looking for an editor to curate this anthology to be released at the end of 2027. If you’re interested, please re…",
+   "source": "bluesky",
+   "company": "emergejournal.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-14",
+   "url": "https://bsky.app/profile/emergejournal.bsky.social/post/3n2ak2m5ysk23",
+   "matched": [
+    "editor",
+    "editing"
+   ],
+   "email": "elj.editions@gmail.com",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 14,
+   "title": "⚡ Remote Junior Copywriter at Who Gives A Crap",
+   "source": "mastodon #writingjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-13",
+   "url": "https://mastodon.social/@Remotely/117609802572281675",
+   "matched": [
+    "copywrit"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 12,
+   "title": "We are currently looking for a Script Editor and Sounddesigner for Episode 1 of The Underground and possibly beyond! If…",
+   "source": "bluesky",
+   "company": "sevencirclesquare.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-20",
+   "url": "https://bsky.app/profile/sevencirclesquare.bsky.social/post/3n2qxxa43322d",
+   "matched": [
+    "editor"
+   ],
+   "email": "",
+   "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 12,
+   "title": "Mejuri is hiring a #freelance senior designer in NYC www.dnamag.co/jobs/mejuri-...",
+   "source": "bluesky",
+   "company": "dnamag.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-20",
+   "url": "https://bsky.app/profile/dnamag.bsky.social/post/3n2qr6omicc25",
+   "matched": [
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "kind": "gig",
    "qualified": true
   }
  ]
