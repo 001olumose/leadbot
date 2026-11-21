@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T15:54:02+00:00",
- "count": 13,
+ "generated": "2026-11-21T16:57:41+00:00",
+ "count": 20,
  "leads": [
   {
    "score": 30,
@@ -10,7 +10,12 @@
    "location": "Remote",
    "posted": "2026-11-18",
    "url": "https://dribbble.com/jobs/311924-Graphic-Designer-Print-Brand-Web",
-   "matched": ["graphic design", "designer", "design", "brand"],
+   "matched": [
+    "graphic design",
+    "designer",
+    "design",
+    "brand"
+   ],
    "email": "",
    "kind": "job",
    "qualified": true
@@ -23,7 +28,33 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Polished-Personal-Video-Edit-40829080.html",
-   "matched": ["video edit", "video", "editor", "video editing", "editing"],
+   "matched": [
+    "video edit",
+    "video",
+    "editor",
+    "video editing",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 27,
+   "title": "Accurate Transcription and Typing Assistance",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/typing/Accurate-Transcription-Typing-Assistance.html",
+   "matched": [
+    "transcription",
+    "proofread",
+    "video edit",
+    "data entry",
+    "video editing",
+    "video"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -36,7 +67,32 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/research/Game-Review-Article-Content-Writer.html",
-   "matched": ["content writ", "article", "ghostwrit", "blog"],
+   "matched": [
+    "content writ",
+    "article",
+    "ghostwrit",
+    "blog"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 26,
+   "title": "Content Writing task beginners and newly experienced levels",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/blog-writing/Content-Writing-task-beginners-newly-40829166.html",
+   "matched": [
+    "content writ",
+    "ghostwrit",
+    "copywrit",
+    "blog",
+    "article",
+    "editing"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -49,7 +105,11 @@
    "location": "Remote",
    "posted": "2026-11-12",
    "url": "https://dribbble.com/jobs/311693-Graphic-Motion-Designer-AI-remote",
-   "matched": ["designer", "design", "motion design"],
+   "matched": [
+    "designer",
+    "design",
+    "motion design"
+   ],
    "email": "",
    "kind": "job",
    "qualified": true
@@ -62,9 +122,34 @@
    "location": "Remote job",
    "posted": "2026-11-20",
    "url": "https://www.arbeitnow.com/jobs/companies/softgames/ui-designer-casual-games-freelance-remote-berlin-403179",
-   "matched": ["ui design", "designer", "design", "animation", "figma"],
+   "matched": [
+    "ui design",
+    "designer",
+    "design",
+    "animation",
+    "figma"
+   ],
    "email": "",
    "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 24,
+   "title": "Webador Website Redesign",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/web-design/Webador-Website-Redesign.html",
+   "matched": [
+    "redesign",
+    "graphic design",
+    "website design",
+    "web design",
+    "design"
+   ],
+   "email": "",
+   "kind": "gig",
    "qualified": true
   },
   {
@@ -75,9 +160,50 @@
    "location": "Remote",
    "posted": "2026-11-12",
    "url": "https://dribbble.com/jobs/311726-Graphic-Designer",
-   "matched": ["graphic design", "designer", "design"],
+   "matched": [
+    "graphic design",
+    "designer",
+    "design"
+   ],
    "email": "",
    "kind": "job",
+   "qualified": true
+  },
+  {
+   "score": 21,
+   "title": "Romantic Love Story Lecture Notes",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/content-writing/Romantic-Love-Story-Lecture-Notes.html",
+   "matched": [
+    "ghostwrit",
+    "copywrit",
+    "content writ",
+    "article",
+    "proofread",
+    "research writ"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 20,
+   "title": "Application Forms Data Entry",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/data-processing/Application-Forms-Data-Entry.html",
+   "matched": [
+    "data entry",
+    "excel",
+    "annotation"
+   ],
+   "email": "",
+   "kind": "gig",
    "qualified": true
   },
   {
@@ -88,7 +214,14 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/social-media-management/Daily-Instagram-Growth-Manager-40828729.html",
-   "matched": ["video edit", "video editing", "reels", "video", "editing", "social media"],
+   "matched": [
+    "video edit",
+    "video editing",
+    "reels",
+    "video",
+    "editing",
+    "social media"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -101,7 +234,52 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/blog-writing/Original-SEO-Astrology-Blogs.html",
-   "matched": ["blog", "ghostwrit", "content writ", "article", "content strategy"],
+   "matched": [
+    "blog",
+    "ghostwrit",
+    "content writ",
+    "article",
+    "content strategy"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "Penerjemahan Dokumen Akurat",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/proofreading/Penerjemahan-Dokumen-Akurat.html",
+   "matched": [
+    "copywrit",
+    "content writ",
+    "technical writ",
+    "proofread",
+    "editing"
+   ],
+   "email": "",
+   "kind": "gig",
+   "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "Roblox Apocalyptic Trailer Creation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-21",
+   "url": "https://www.freelancer.com/projects/3d-animation/Roblox-Apocalyptic-Trailer-Creation.html",
+   "matched": [
+    "video edit",
+    "animation",
+    "video editing",
+    "design",
+    "video",
+    "editing"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -114,7 +292,11 @@
    "location": "Remote",
    "posted": "2026-11-20",
    "url": "https://nodesk.co/remote-jobs/b12-web-design-and-marketing-partners/",
-   "matched": ["web design", "design", "designer"],
+   "matched": [
+    "web design",
+    "design",
+    "designer"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -127,7 +309,13 @@
    "location": "Remote",
    "posted": "2026-11-19",
    "url": "https://weworkremotely.com/remote-jobs/tebra-product-designer",
-   "matched": ["designer", "design", "figma", "video", "social media"],
+   "matched": [
+    "designer",
+    "design",
+    "figma",
+    "video",
+    "social media"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -140,7 +328,11 @@
    "location": "Remote",
    "posted": "2026-11-21",
    "url": "https://www.freelancer.com/projects/digital-marketing/Construction-Startup-Marketing-Branding.html",
-   "matched": ["brand", "wordpress", "social media"],
+   "matched": [
+    "brand",
+    "wordpress",
+    "social media"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -153,7 +345,13 @@
    "location": "Remote",
    "posted": "2026-11-18",
    "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-   "matched": ["social media", "python", "prompt engineering", "video", "brand"],
+   "matched": [
+    "social media",
+    "python",
+    "prompt engineering",
+    "video",
+    "brand"
+   ],
    "email": "",
    "kind": "gig",
    "qualified": true
@@ -166,7 +364,13 @@
    "location": "Remote",
    "posted": "2026-11-18",
    "url": "https://weworkremotely.com/remote-jobs/terac-aml-and-compliance-experts-ai-training-tasks",
-   "matched": ["ai training", "design", "video", "youtube", "translat"],
+   "matched": [
+    "ai training",
+    "design",
+    "video",
+    "youtube",
+    "translat"
+   ],
    "email": "",
    "kind": "job",
    "qualified": true
