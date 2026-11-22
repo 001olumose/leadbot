@@ -89,7 +89,7 @@ account is judged on complaint rate, and a burst gets limited or suspended;
 five a day, one address at a time, a minute apart, keeps the record clean while
 the queue carries the overflow to the next morning. It is a setting, not a
 limit: raise `daily_cap`, or set the repository variable `LEADBOT_DAILY_CAP`,
-while the sending record stays healthy. Warm up slowly (5 to 8 to 12).
+as the sending record stays healthy. Warm up slowly (5 → 8 → 12).
 
 Guardrails: one message per address ever, a suppression file
 (`output/suppress.txt`), a `List-Unsubscribe` header, plain text only, and a
@@ -104,7 +104,7 @@ Act). The opt-out line and the suppression file are the minimum everywhere.
 
 | Source | What it is | Notes |
 | --- | --- | --- |
-| Reddit (`r/forhire`, `r/hireareddit`, `r/DesignJobs`, `r/freelance_forhire`) | People posting "hiring" with a budget | Needs a free Reddit app, see below |
+| Reddit (`r/forhire`, `r/hireareddit`, `r/DesignJobs`, `r/freelance_forhire`) | People posting "hiring" with a budget | **Off**: Reddit stopped issuing new API apps, see below |
 | Hacker News | "SEEKING FREELANCER" posts and the monthly thread | Often the best clients |
 | OpenStreetMap | Businesses that published their own address in the map | Prospect outreach, Lagos / Abuja / Accra / Nairobi |
 | Freelancer.com | New public projects | About 20 at a time |
@@ -113,30 +113,28 @@ Act). The opt-out line and the suppression file are the minimum everywhere.
 | Mastodon, Bluesky | Public posts asking for a freelancer | Handle becomes the greeting |
 | Telegram | Public channels via `t.me/s/<channel>` | Off by default |
 
-### Reddit, free
+### Reddit: off, and why
 
-Reddit refuses anonymous `.json` and `.rss` reads from cloud addresses (403/429),
-which is why the source used to contribute nothing from GitHub. The fix is free
-and takes two minutes:
+Reddit no longer gives out new API apps. The app page at
+<https://www.reddit.com/prefs/apps> answers "you cannot create any more
+applications", and anonymous `.json` and `.rss` reads are refused from cloud
+addresses (403/429), which is where the daily run happens. So the source is set
+to `"enabled": false` in `config.json` and the run no longer spends four failing
+requests on it.
 
-1. Sign in to Reddit, open <https://www.reddit.com/prefs/apps>, click
-   **create another app**.
-2. Name it anything, choose **script**, put `http://localhost:8080` in the
-   redirect field. Create it.
-3. The string under the app name (next to "personal use script") is the client
-   id; the **secret** is the longer string.
-4. Repository, Settings, Secrets and variables, Actions, **New repository
-   secret**: `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`.
-
-The bot then reads `oauth.reddit.com` with an app-only token. Without the
-secrets it falls back to the public feed and logs that it did.
+If an app already exists on that page from before, it can still be used: copy the
+string under its name (the client id) and its secret, add them to
+Repository → Settings → Secrets and variables → Actions as `REDDIT_CLIENT_ID`
+and `REDDIT_CLIENT_SECRET`, and set `sources.reddit.enabled` back to `true`. The
+bot then reads `oauth.reddit.com` with an app-only token. Nothing else in the
+setup depends on Reddit; the other seventeen sources carry the run.
 
 ### OpenStreetMap
 
 Free and keyless (Overpass API). Only records where the business put an email
 into public map data are kept, and the query is sent as a POST with a real
-User-Agent, which is what Overpass accepts. Four cities take a few minutes; add
-cities in `sources.openstreetmap.cities`.
+User-Agent, which is what Overpass accepts. Four cities take about three
+minutes; add cities in `sources.openstreetmap.cities`.
 
 ---
 
