@@ -1,0 +1,93 @@
+name: LeadBot
+
+on:
+  schedule:
+    # 06:13 UTC = 07:13 in Lagos. Deliberately not on the hour: GitHub
+    # delays or drops top-of-the-hour crons when its queue is busy.
+    - cron: "13 6 * * *"
+    # Backstop, in case the morning slot is dropped.
+    - cron: "43 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leadbot
+  cancel-in-progress: false
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch LeadBot
+        run: |
+          set -euo pipefail
+          base="https://site-b2033fe37d9c47bbb00da9e629c1a2a2.freebuff.page"
+          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$base/leadbot.py" -o leadbot.py
+          curl -fsSL --retry 5 --retry-delay 3 --retry-all-errors "$base/config.json" -o config.json
+          python3 -c "import ast, sys; ast.parse(open('leadbot.py', encoding='utf-8').read())"
+          python3 -c "import json; json.load(open('config.json', encoding='utf-8'))"
+          test "$(wc -c < leadbot.py)" -gt 20000
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The bot remembers what it has already shown, who it has already
+      # emailed, and who asked not to be contacted. All three live in state/
+      # and are committed back at the end of the run.
+      - name: Restore memory
+        run: |
+          mkdir -p output state
+          if [ -f state/seen.db ]; then cp state/seen.db output/seen.db; fi
+          if [ -f state/sent.db ]; then cp state/sent.db output/sent.db; fi
+          if [ -f state/suppress.txt ]; then cp state/suppress.txt output/suppress.txt; fi
+
+      - name: Find leads and send outreach
+        run: python leadbot.py --send
+        env:
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          LEADBOT_DAILY_CAP: ${{ vars.LEADBOT_DAILY_CAP }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT: ${{ secrets.TELEGRAM_CHAT }}
+
+      - name: Publish the feed
+        run: |
+          set -euo pipefail
+          mkdir -p docs state
+          # Rolling list: today's finds are added to the recent ones, so a quiet
+          # morning never leaves the page with a shorter list than yesterday.
+          # merge_feed.py masks every address before it is published.
+          python3 scripts/merge_feed.py output/leads.json docs/leads.json
+          if [ -f output/seen.db ]; then cp output/seen.db state/seen.db; fi
+          if [ -f output/sent.db ]; then cp output/sent.db state/sent.db; fi
+          if [ -f output/suppress.txt ]; then cp output/suppress.txt state/suppress.txt; fi
+          git config user.name "LeadBot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A docs state
+          if git diff --cached --quiet; then
+            echo "nothing new to publish"
+            exit 0
+          fi
+          git commit -m "Leads for $(date -u +%F)"
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 5
+          done
+          echo "Could not push the feed after 3 attempts" >&2
+          exit 1
+
+      - name: Keep the report
+        uses: actions/upload-artifact@v4
+        with:
+          name: leads-${{ github.run_number }}
+          path: |
+            output/digest.html
+            output/leads.csv
+          retention-days: 30

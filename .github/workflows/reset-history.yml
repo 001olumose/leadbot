@@ -1,0 +1,92 @@
+name: Reset history
+
+# One-time manual job: replaces every commit on main with a single commit of the
+# current files, so the addresses that appeared in earlier published feeds are
+# no longer in the repository history. Run it once from the Actions tab.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leadbot
+  cancel-in-progress: false
+
+jobs:
+  wipe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Strip plain addresses from the saved state
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import sqlite3
+          from pathlib import Path
+
+          path = Path("state/sent.db")
+          if not path.exists():
+              raise SystemExit(0)
+
+          def digest(address):
+              return hashlib.sha256(address.strip().lower().encode("utf-8")).hexdigest()
+
+          def mask(address):
+              local, _, domain = address.partition("@")
+              return f"{local[:1]}***@{domain}" if domain else ""
+
+          conn = sqlite3.connect(path)
+          columns = {row[1] for row in conn.execute("PRAGMA table_info(sent)")}
+          if "email" in columns:
+              rows = list(conn.execute("SELECT email, url, sent_at, status FROM sent"))
+              conn.execute("DROP TABLE sent")
+              conn.execute(
+                  "CREATE TABLE sent (email_hash TEXT PRIMARY KEY, masked TEXT, "
+                  "url TEXT, sent_at TEXT, status TEXT)"
+              )
+              for email, url, sent_at, status in rows:
+                  conn.execute(
+                      "INSERT OR IGNORE INTO sent VALUES (?,?,?,?,?)",
+                      (digest(email), mask(email), url, sent_at, status),
+                  )
+              conn.commit()
+              print(f"state: {len(rows)} address(es) replaced with hashes")
+          PY
+
+      - name: Mask addresses in the published feed
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("docs/leads.json")
+          if not path.exists():
+              raise SystemExit(0)
+          data = json.loads(path.read_text(encoding="utf-8"))
+          changed = 0
+          for lead in data.get("leads") or []:
+              address = (lead.get("email") or "").strip()
+              if "@" in address and "***" not in address:
+                  local, domain = address.split("@", 1)
+                  lead["email"] = f"{local[:1]}***@{domain}"
+                  changed += 1
+          path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+          print(f"feed: {changed} address(es) masked")
+          PY
+
+      - name: Replace history with one commit
+        run: |
+          set -euo pipefail
+          git config user.name "LeadBot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout --orphan clean-history
+          git add -A
+          git commit -m "LeadBot: clean start"
+          git branch -D main
+          git branch -m main
+          git push --force origin main
