@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T18:59:52+00:00",
- "count": 25,
+ "generated": "2026-11-22T14:39:48+00:00",
+ "count": 40,
  "leads": [
   {
    "score": 47,
@@ -45,6 +45,30 @@
    "qualified": true
   },
   {
+   "score": 41,
+   "title": "Beginner Logo Designer Needed for Small Business Branding",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/branding/Beginner-Logo-Designer-Needed-for-40830251.html",
+   "matched": [
+    "logo",
+    "designer",
+    "design",
+    "brand",
+    "graphic design",
+    "social media"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
    "score": 39,
    "title": "Beginner Logo Designer Needed for Small Business Branding",
    "source": "freelancer.com",
@@ -87,6 +111,30 @@
   },
   {
    "score": 31,
+   "title": "HypeTrade Social Media & Education Assistant",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/social-media-management/HypeTrade-Social-Media-Education.html",
+   "matched": [
+    "social media",
+    "copywrit",
+    "video edit",
+    "animation",
+    "video editing",
+    "video"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 31,
    "title": "Beginner and newly experienced Levels Content Writing Task",
    "source": "freelancer.com",
    "company": "",
@@ -105,6 +153,51 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 27,
+   "title": "Construction Excel Analysis and Presentation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/building-surveyors/Construction-Excel-Analysis-Presentation.html",
+   "matched": [
+    "excel",
+    "presentation",
+    "data analysis",
+    "data entry",
+    "survey"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 27,
+   "title": "3 clients asked for design & illustration help this week: 1. A client needs a Figma & graphics designer for a short… 2.…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-22",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2vhksclth2n",
+   "matched": [
+    "figma",
+    "designer",
+    "design",
+    "graphic design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 27,
@@ -408,6 +501,51 @@
   },
   {
    "score": 19,
+   "title": "AI Marketing Article for SMBs",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/ai-content-creation/Marketing-Article-for-SMBs.html",
+   "matched": [
+    "article",
+    "ghostwrit",
+    "content writ",
+    "social media"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 19,
+   "title": "Home Decor Product Image Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/product-photography/Home-Decor-Product-Image-Design.html",
+   "matched": [
+    "design",
+    "graphic design",
+    "designer",
+    "editing",
+    "presentation"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 19,
    "title": "GTA 6 Gameplay Video Recording Required -- 2",
    "source": "freelancer.com",
    "company": "",
@@ -444,6 +582,45 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 18,
+   "title": "English AI Training Knowledge Interview",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-22",
+   "url": "https://www.freelancer.com/projects/english-translation/English-Training-Knowledge-Interview.html",
+   "matched": [
+    "ai training"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 18,
+   "title": "Will your next copy sell feature or sell outcome today? # Copywriting # FeatureBenefitOutcome # BusinessGrowth # BrandS…",
+   "source": "mastodon #copywriting",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-22",
+   "url": "https://mastodon.social/@MrEmogical/117658012075992529",
+   "matched": [
+    "copywrit",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 16,
@@ -504,6 +681,139 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 15,
+   "title": "NAVAC GLOBAL — tech company in Nairobi",
+   "source": "openstreetmap",
+   "company": "NAVAC GLOBAL",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/14340501218",
+   "matched": [
+    "tech company"
+   ],
+   "email": "i***@navac.co.ke",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "tech company",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Mirror of Hope C.B.O. — non-profit in Nairobi",
+   "source": "openstreetmap",
+   "company": "Mirror of Hope C.B.O.",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/12441710601",
+   "matched": [
+    "non-profit"
+   ],
+   "email": "i***@mirrorofhopecbo.org",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "non-profit",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Theovision International — non-profit in Nairobi",
+   "source": "openstreetmap",
+   "company": "Theovision International",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/9722395517",
+   "matched": [
+    "non-profit"
+   ],
+   "email": "i***@theovisionkenya.org",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "non-profit",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Dostum Solutions Limited — tech company in Nairobi",
+   "source": "openstreetmap",
+   "company": "Dostum Solutions Limited",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/5328470142",
+   "matched": [
+    "tech company"
+   ],
+   "email": "i***@dostum.co.ke",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "tech company",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Christs Hope International Nairobi — non-profit in Nairobi",
+   "source": "openstreetmap",
+   "company": "Christs Hope International Nairobi",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/4938376192",
+   "matched": [
+    "non-profit"
+   ],
+   "email": "c***@gmail.com",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "non-profit",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Girl Power Clubs-Kibera office — non-profit in Nairobi",
+   "source": "openstreetmap",
+   "company": "Girl Power Clubs-Kibera office",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/4440303289",
+   "matched": [
+    "non-profit"
+   ],
+   "email": "g***@gmail.com",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "non-profit",
+   "city": "Nairobi"
+  },
+  {
+   "score": 15,
+   "title": "Map Kibera Trust — non-profit in Nairobi",
+   "source": "openstreetmap",
+   "company": "Map Kibera Trust",
+   "location": "Nairobi",
+   "posted": "2026-11-22",
+   "url": "https://www.openstreetmap.org/node/4243073594",
+   "matched": [
+    "non-profit"
+   ],
+   "email": "c***@mapkibera.org",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": true,
+   "category": "non-profit",
+   "city": "Nairobi"
   }
  ]
 }
