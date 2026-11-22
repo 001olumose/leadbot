@@ -9,6 +9,13 @@
   "filters": {
     "max_age_days": 10,
     "min_score": 9,
+    "qualify": {
+      "min_keyword_weight": 3,
+      "body_score_floor": 16
+    },
+    "require_contact": true,
+    "contact_timeout": 12,
+    "contact_workers": 8,
     "exclude": [
       "[for hire]",
       "for hire]",
@@ -23,9 +30,7 @@
       "internship",
       "essay mill",
       "do my homework",
-      "adult content",
       "gambling",
-      "onlyfans",
       "crypto",
       "casino",
       "japanese",
@@ -38,7 +43,16 @@
       "video calls",
       "webcam",
       "call center",
-      "data entry scam"
+      "data entry scam",
+      "seeking work",
+      "open to work",
+      "hire me",
+      "i'm available",
+      "i am available",
+      "available for freelance",
+      "looking for new projects",
+      "i have experience",
+      "dm me"
     ],
     "penalise": {
       "senior": 6,
@@ -107,6 +121,17 @@
     "poultry": 8,
     "livestock": 7,
     "farm": 5,
+    "visa sponsorship": 8,
+    "sponsorship": 5,
+    "work permit": 6,
+    "seasonal work": 6,
+    "seasonal contract": 6,
+    "harvest": 5,
+    "picker": 4,
+    "orchard": 5,
+    "vineyard": 5,
+    "dairy": 5,
+    "relocation support": 4,
     "horticultur": 6,
     "proposal writ": 6,
     "grant writ": 7,
@@ -140,11 +165,45 @@
     "youtube": 2,
     "editing": 4,
     "book layout": 5,
-    "brand": 3
+    "illustrat": 5,
+    "infographic": 6,
+    "pitch deck": 6,
+    "presentation": 4,
+    "social media": 4,
+    "packaging": 5,
+    "editorial": 4,
+    "typography": 5,
+    "storyboard": 5,
+    "motion design": 6,
+    "content strategy": 4,
+    "copy edit": 5,
+    "translat": 3,
+    "survey design": 6,
+    "impact evaluation": 6,
+    "brand": 3,
+    "evaluation": 5,
+    "baseline": 5,
+    "assessment": 3,
+    "data collection": 5,
+    "report writing": 5,
+    "communication": 3,
+    "training material": 4
   },
   "sources": {
-    "reddit": {
+    "openstreetmap": {
       "enabled": true,
+      "cities": [
+        "Lagos",
+        "Abuja",
+        "Accra",
+        "Nairobi"
+      ],
+      "max_per_city": 10
+    },
+    "reddit": {
+      "enabled": false,
+      "oauth": true,
+      "note": "Off because Reddit no longer hands out new API apps (the app page answers 'you cannot create any more applications'). Anonymous reads are blocked from cloud addresses, so the source only wasted four failing requests a run. If an older app ever shows on reddit.com/prefs/apps, put its id and secret in the repo secrets and set enabled back to true.",
       "subreddits": [
         "forhire",
         "hireareddit",
@@ -164,6 +223,7 @@
     "weworkremotely": {
       "enabled": true,
       "feeds": [
+        "all",
         "remote-design-jobs",
         "remote-copywriting-jobs"
       ]
@@ -186,6 +246,61 @@
     },
     "jobspresso": {
       "enabled": true
+    },
+    "arbeitnow": {
+      "enabled": true
+    },
+    "dribbble": {
+      "enabled": true
+    },
+    "nodesk": {
+      "enabled": true
+    },
+    "mastodon": {
+      "enabled": true,
+      "tags": [
+        "freelance",
+        "copywriting",
+        "writingjobs",
+        "designjobs"
+      ]
+    },
+    "bluesky": {
+      "enabled": true,
+      "queries": [
+        "looking for a freelance writer",
+        "need a copywriter",
+        "hiring a freelance designer",
+        "looking for a ghostwriter",
+        "need a video editor",
+        "looking for an editor",
+        "need a graphic designer",
+        "freelance writer needed",
+        "looking for a data analyst",
+        "need help with statistics"
+      ]
+    },
+    "reliefweb": {
+      "enabled": true
+    },
+    "worldbank": {
+      "enabled": true,
+      "notice_types": [
+        "Request for Expression of Interest",
+        "Request for Proposals"
+      ],
+      "queries": [
+        "communication consultant",
+        "copywriting",
+        "graphic design",
+        "video production",
+        "monitoring and evaluation",
+        "survey",
+        "data collection",
+        "training materials",
+        "editing",
+        "agriculture"
+      ]
     }
   },
   "telegram": {
@@ -193,20 +308,21 @@
     "chat_id": ""
   },
   "sending": {
-    "enabled": false,
+    "enabled": true,
     "provider": "smtp",
     "from_name": "Moses Ojeleye",
     "from_email": "ojeleyemoses698@gmail.com",
     "reply_to": "",
-    "smtp_host": "",
+    "smtp_host": "smtp.gmail.com",
     "smtp_port": 587,
     "smtp_starttls": true,
-    "smtp_user": "",
+    "smtp_user": "ojeleyemoses698@gmail.com",
     "smtp_password": "",
     "resend_api_key": "",
-    "daily_cap": 10,
-    "min_seconds_between": 45,
-    "subject": "{title_short} — quick question",
-    "body": "Hi,\n\nI saw your post about {title}, and it's the kind of work I do.\n\nI do {services_short}. I can start this week, and if it's useful I'll send a short sample built around what you described before you commit to anything.\n\n{portfolio}\n\nIf this isn't relevant, just reply \"no\" and I won't follow up.\n\n{name}\n{email}"
+    "daily_cap": 5,
+    "daily_cap_why": "cold mail from one Gmail address: a handful a day builds a clean sending record, a burst gets the account limited. Raise it slowly. LEADBOT_DAILY_CAP overrides it without editing this file.",
+    "min_seconds_between": 60,
+    "tailored": true,
+    "daily_cap_note": "one email per address ever; tailored body per lead in leadbot.py"
   }
 }
