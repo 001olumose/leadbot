@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T17:28:54+00:00",
+ "generated": "2026-11-23T18:13:25+00:00",
  "count": 40,
  "leads": [
   {
@@ -67,6 +67,29 @@
    "contact": "email",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 44,
+   "title": "Looking for a TTRPG graphic designer for a paid gig. I need a title/logo/cover dressing for a ttrpg project. Also, In a…",
+   "source": "bluesky",
+   "company": "aurorabaker.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-23",
+   "url": "https://bsky.app/profile/aurorabaker.bsky.social/post/3n2yp2egiwk2y",
+   "matched": [
+    "logo",
+    "graphic design",
+    "designer",
+    "design",
+    "book layout"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 41,
@@ -137,6 +160,28 @@
    "qualified": true
   },
   {
+   "score": 36,
+   "title": "New client request · Brand & identity · found 9 min ago Business Consultant needs a freelance graphic designer for crea…",
+   "source": "bluesky",
+   "company": "intentpond.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-23",
+   "url": "https://bsky.app/profile/intentpond.bsky.social/post/3n2xsyojtkc2n",
+   "matched": [
+    "graphic design",
+    "designer",
+    "design",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
    "score": 34,
    "title": "YouTube Brand Promotion Video Needed",
    "source": "freelancer.com",
@@ -156,6 +201,28 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 32,
+   "title": "⚡ Remote Lead Brand Designer at BJAK",
+   "source": "mastodon #designjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-23",
+   "url": "https://mastodon.social/@Remotely/117666975669737781",
+   "matched": [
+    "brand design",
+    "designer",
+    "design",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 32,
@@ -225,6 +292,30 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 29,
+   "title": "Creative Social Media Manager Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-23",
+   "url": "https://www.freelancer.com/projects/social-media-management/Creative-Social-Media-Manager-Needed-40830719.html",
+   "matched": [
+    "social media",
+    "copywrit",
+    "graphic design",
+    "video edit",
+    "video editing",
+    "design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 28,
@@ -357,6 +448,27 @@
    "contact": "email",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 26,
+   "title": "⚡ Remote Creative (Graphic Designer) at Superside",
+   "source": "mastodon #designjobs",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-23",
+   "url": "https://mastodon.social/@Remotely/117664027251222025",
+   "matched": [
+    "graphic design",
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
   },
   {
    "score": 26,
@@ -548,6 +660,27 @@
   },
   {
    "score": 21,
+   "title": "WordPerfect Math Formatting Project",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-23",
+   "url": "https://www.freelancer.com/projects/technical-writing/WordPerfect-Math-Formatting-Project.html",
+   "matched": [
+    "formatting",
+    "technical writ",
+    "editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 21,
    "title": "Independent Evaluation Expert Consultancy Services",
    "source": "reliefweb",
    "company": "Center for Operational Analysis and Research",
@@ -643,6 +776,26 @@
   },
   {
    "score": 19,
+   "title": "Hi again streamer people! I have another new batch of assistants and video editors to give out now! If any streamers, v…",
+   "source": "bluesky",
+   "company": "vtuber-assistant.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-23",
+   "url": "https://bsky.app/profile/vtuber-assistant.bsky.social/post/3n2ymrtrq7c2x",
+   "matched": [
+    "editor",
+    "video"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "city": ""
+  },
+  {
+   "score": 19,
    "title": "AI Marketing Article for SMBs",
    "source": "freelancer.com",
    "company": "",
@@ -700,148 +853,6 @@
     "video editing",
     "design",
     "editing"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 19,
-   "title": "Consultant – Assessment and Design of an Integrated Digital Information, Knowledge and MEL Management System",
-   "source": "reliefweb",
-   "company": "Impunity Watch",
-   "location": "Remote",
-   "posted": "2026-11-19",
-   "url": "https://reliefweb.int/job/4239087/consultant-assessment-and-design-integrated-digital-information-knowledge-and-mel-management-system",
-   "matched": [
-    "design",
-    "assessment",
-    "proposal",
-    "evaluation"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 18,
-   "title": "English AI Training Knowledge Interview",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-22",
-   "url": "https://www.freelancer.com/projects/english-translation/English-Training-Knowledge-Interview.html",
-   "matched": [
-    "ai training"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 18,
-   "title": "Will your next copy sell feature or sell outcome today? # Copywriting # FeatureBenefitOutcome # BusinessGrowth # BrandS…",
-   "source": "mastodon #copywriting",
-   "company": "",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-22",
-   "url": "https://mastodon.social/@MrEmogical/117658012075992529",
-   "matched": [
-    "copywrit",
-    "brand"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 18,
-   "title": "Open Instagram Dance Challenge – 20-Second Song Reel Contest",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-22",
-   "url": "https://www.freelancer.com/projects/video-editing/Open-Instagram-Dance-Challenge-Second.html",
-   "matched": [
-    "video edit",
-    "video editing",
-    "design",
-    "video",
-    "editing",
-    "social media"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 16,
-   "title": "Editor de Animaciones 2D Sociales",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/2d-animation/Editor-Animaciones-Sociales.html",
-   "matched": [
-    "editor",
-    "video edit",
-    "animation",
-    "video editing",
-    "video",
-    "youtube"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 16,
-   "title": "Nursing Portfolio Writer",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/academic-writing/Nursing-Portfolio-Writer.html",
-   "matched": [
-    "content writ",
-    "article",
-    "proofread",
-    "research writ",
-    "editing"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 16,
-   "title": "Commission-Based Website Sales Partner",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/digital-marketing/Commission-Based-Website-Sales-Partner.html",
-   "matched": [
-    "website design",
-    "wordpress",
-    "design",
-    "social media"
    ],
    "email": "",
    "contact": "link",
