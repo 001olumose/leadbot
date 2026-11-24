@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T17:50:10+00:00",
+ "generated": "2026-11-24T20:26:01+00:00",
  "count": 40,
  "leads": [
   {
@@ -92,6 +92,31 @@
    "city": ""
   },
   {
+   "score": 43,
+   "title": "YouTube Video Editing Long-form edits with clean cuts, B-roll, graphics and chapter-friendly structure",
+   "source": "mastodon #videoediting",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-21",
+   "url": "https://mastodon.social/@NexonEnterprise/117654440784946506",
+   "matched": [
+    "video edit",
+    "video editing",
+    "video",
+    "youtube",
+    "editing",
+    "thumbnail"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
    "score": 41,
    "title": "Beginner Logo Designer Needed for Small Business Branding",
    "source": "freelancer.com",
@@ -158,6 +183,29 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 36,
+   "title": "Sometimes, video editing looks like this: # kdenlive # videoediting # videoeffects # foss # eonshade",
+   "source": "mastodon #videoediting",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-24",
+   "url": "https://mastodon.social/@eonshade/117668516156777802",
+   "matched": [
+    "video edit",
+    "video editing",
+    "video",
+    "editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
   },
   {
    "score": 36,
@@ -412,6 +460,29 @@
   },
   {
    "score": 27,
+   "title": "Personal Video Edit",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-24",
+   "url": "https://www.freelancer.com/projects/video-post-editing/Personal-Video-Edit.html",
+   "matched": [
+    "video edit",
+    "video",
+    "video editing",
+    "editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 27,
    "title": "High-Energy Basketball Shorts Editor",
    "source": "freelancer.com",
    "company": "",
@@ -567,6 +638,56 @@
   },
   {
    "score": 26,
+   "title": "YouTube & LinkedIn Banners to state my value preposition",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-24",
+   "url": "https://www.freelancer.com/projects/branding/YouTube-LinkedIn-Banners-state-value.html",
+   "matched": [
+    "banner",
+    "youtube",
+    "logo",
+    "graphic design",
+    "design",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 26,
+   "title": "Edit 5 Tech Instagram Reels",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-24",
+   "url": "https://www.freelancer.com/projects/video-production/Edit-Tech-Instagram-Reels.html",
+   "matched": [
+    "reels",
+    "motion graphic",
+    "video edit",
+    "animation",
+    "video editing",
+    "video"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 26,
    "title": "⚡ Remote Creative (Graphic Designer) at Superside",
    "source": "mastodon #designjobs",
    "company": "",
@@ -627,6 +748,55 @@
    "contact": "email",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 25,
+   "title": "Simple Modern Logo Creation",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-24",
+   "url": "https://www.freelancer.com/projects/adobe-illustrator/Simple-Modern-Logo-Creation-40834001.html",
+   "matched": [
+    "logo",
+    "graphic design",
+    "design",
+    "banner",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 25,
+   "title": "Olive Oil Packaging Finally Gets a Sense of Humor in Farolì Honestly, olive oil packaging often looks like it apologize…",
+   "source": "mastodon #graphicdesign",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-24",
+   "url": "https://weandthecolor.com/olive-oil-packaging-finally-gets-a-sense-of-humor-in-faroli/213455",
+   "matched": [
+    "packaging",
+    "brand identity",
+    "graphic design",
+    "harvest",
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
   },
   {
    "score": 25,
@@ -742,159 +912,6 @@
    "prospect": false,
    "category": "",
    "city": ""
-  },
-  {
-   "score": 23,
-   "title": "Accurate Word/PDF Data Proofreading",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-22",
-   "url": "https://www.freelancer.com/projects/proofreading/Accurate-Word-PDF-Data-Proofreading.html",
-   "matched": [
-    "proofread",
-    "data entry",
-    "excel",
-    "editing",
-    "copy edit"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 23,
-   "title": "Premium Gym 3D Interior Animation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/3d-visualization/Premium-Gym-Interior-Animation.html",
-   "matched": [
-    "animation",
-    "video edit",
-    "video editing",
-    "video",
-    "editing"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 23,
-   "title": "Tech Skills Blog Articles Needed",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/article-writing/Tech-Skills-Blog-Articles-Needed.html",
-   "matched": [
-    "blog",
-    "article",
-    "content writ",
-    "technical writ",
-    "blog post"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 23,
-   "title": "Terms of Reference for Knowledge Products Development Consultancy",
-   "source": "reliefweb",
-   "company": "CBM Global Disability Inclusion",
-   "location": "Nigeria",
-   "posted": "2026-11-19",
-   "url": "https://reliefweb.int/job/4239123/terms-reference-knowledge-products-development-consultancy",
-   "matched": [
-    "case study",
-    "proposal",
-    "design",
-    "illustrat",
-    "presentation",
-    "evaluation"
-   ],
-   "email": "m***@cbm-global.org",
-   "contact": "email",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 22,
-   "title": "Experienced Freelancers Needed for Short Academic Survey (15–20 min, €15) -- 3",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-24",
-   "url": "https://www.freelancer.com/projects/php/Experienced-Freelancers-Needed-for-Short-40833846.html",
-   "matched": [
-    "survey",
-    "logo",
-    "graphic design",
-    "website design",
-    "wordpress",
-    "data entry"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
-  },
-  {
-   "score": 22,
-   "title": "Spokesperson + screen recording for an 8–10 min YouTube video (SaaS walkthrough, English)",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-22",
-   "url": "https://www.freelancer.com/projects/video-editing/Spokesperson-screen-recording-for-min.html",
-   "matched": [
-    "video",
-    "youtube",
-    "video edit",
-    "video editing",
-    "editing"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 22,
-   "title": "Broadcasting of Interactive Radio Awareness Programmes on Protection, Child Protection, Gender Equality, Inclusion, Technology-Facilitated Gender-Base",
-   "source": "reliefweb",
-   "company": "Somali Lifeline Organization",
-   "location": "Kenya",
-   "posted": "2026-11-18",
-   "url": "https://reliefweb.int/job/4238954/broadcasting-interactive-radio-awareness-programmes-protection-child-protection-gender-equality-inclusion-technology-facilitated-gender-base",
-   "matched": [
-    "logo",
-    "survey",
-    "proposal",
-    "design",
-    "social media",
-    "packaging"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
   }
  ]
 }
