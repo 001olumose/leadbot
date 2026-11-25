@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:19:21+00:00",
+ "generated": "2026-11-25T19:41:05+00:00",
  "count": 40,
  "leads": [
   {
@@ -301,6 +301,31 @@
   },
   {
    "score": 32,
+   "title": "Breton Document Sourcing for AI Training",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-25",
+   "url": "https://www.freelancer.com/projects/ai-training-data/Breton-Document-Sourcing-for-Training.html",
+   "matched": [
+    "ai training",
+    "ghostwrit",
+    "copywrit",
+    "content writ",
+    "article",
+    "annotation"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 32,
    "title": "⚡ Remote Lead Brand Designer at BJAK",
    "source": "mastodon #designjobs",
    "company": "",
@@ -436,6 +461,30 @@
    "qualified": true,
    "prospect": false,
    "category": "",
+   "city": ""
+  },
+  {
+   "score": 28,
+   "title": "Bulgarian Document Sourcing for AI Training",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-25",
+   "url": "https://www.freelancer.com/projects/ai-training-data/Bulgarian-Document-Sourcing-for-Training.html",
+   "matched": [
+    "ai training",
+    "copywrit",
+    "content writ",
+    "annotation",
+    "data collection"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
    "city": ""
   },
   {
@@ -869,55 +918,6 @@
    "qualified": true,
    "prospect": false,
    "category": "",
-   "city": ""
-  },
-  {
-   "score": 25,
-   "title": "Greenhouse Gas Monitoring system, IoT enabled Improved Cookstove Technology locally design & Pilot testing, & Environmental Restoration and Climate Ch",
-   "source": "reliefweb",
-   "company": "Islamic Relief",
-   "location": "Somalia",
-   "posted": "2026-11-22",
-   "url": "https://reliefweb.int/job/4239369/greenhouse-gas-monitoring-system-iot-enabled-improved-cookstove-technology-locally-design-pilot-testing-environmental-restoration-and-climate-ch",
-   "matched": [
-    "design",
-    "data analysis",
-    "statistical",
-    "dashboard",
-    "livestock",
-    "proposal"
-   ],
-   "email": "h***@islamic-relief.so",
-   "contact": "email",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 24,
-   "title": "Corrected Typewriter Transcription to Word",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-24",
-   "url": "https://www.freelancer.com/projects/microsoft-word/Corrected-Typewriter-Transcription-Word.html",
-   "matched": [
-    "transcription",
-    "proofread",
-    "data entry",
-    "formatting",
-    "editing",
-    "copy edit"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
    "city": ""
   }
  ]
