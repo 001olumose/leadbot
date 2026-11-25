@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T20:26:01+00:00",
+ "generated": "2026-11-25T17:19:21+00:00",
  "count": 40,
  "leads": [
   {
@@ -276,6 +276,31 @@
   },
   {
    "score": 32,
+   "title": "DG ECHO HIP 2027 Lebanon proposal writer consultancy",
+   "source": "reliefweb",
+   "company": "Trócaire",
+   "location": "Lebanon",
+   "posted": "2026-11-25",
+   "url": "https://reliefweb.int/job/4239905/dg-echo-hip-2027-lebanon-proposal-writer-consultancy",
+   "matched": [
+    "proposal writ",
+    "proposal",
+    "design",
+    "translat",
+    "baseline",
+    "assessment"
+   ],
+   "email": "i***@trocaire.org",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 32,
    "title": "⚡ Remote Lead Brand Designer at BJAK",
    "source": "mastodon #designjobs",
    "company": "",
@@ -364,6 +389,30 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 29,
+   "title": "Elegant Interior Portfolio Web Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-25",
+   "url": "https://www.freelancer.com/projects/ui-design/Elegant-Interior-Portfolio-Web-Design.html",
+   "matched": [
+    "web design",
+    "design",
+    "graphic design",
+    "website design",
+    "figma"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
   },
   {
    "score": 29,
@@ -869,48 +918,6 @@
    "prospect": false,
    "category": "",
    "need": "",
-   "city": ""
-  },
-  {
-   "score": 24,
-   "title": "Data Entry job. Google search, and fill an Excel sheet. Copy / Paste",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/data-collection/Data-Entry-job-Google-search.html",
-   "matched": [
-    "data entry",
-    "excel",
-    "data collection"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 23,
-   "title": "Edit Six Real Estate Development Videos",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-23",
-   "url": "https://www.freelancer.com/projects/av-editing/Edit-Six-Real-Estate-Development.html",
-   "matched": [
-    "video",
-    "motion graphic",
-    "video edit",
-    "video editing",
-    "editing",
-    "social media"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
    "city": ""
   }
  ]
