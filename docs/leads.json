@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:41:05+00:00",
+ "generated": "2026-11-26T16:59:09+00:00",
  "count": 40,
  "leads": [
   {
@@ -183,6 +183,30 @@
    "contact": "link",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 38,
+   "title": "Brand Identity Design for Kaveri Water Treatment Solutions Visual identity that brings together a distinctive logo, col…",
+   "source": "mastodon #graphicdesign",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-26",
+   "url": "https://mastodon.social/@designclans/117681576631907011",
+   "matched": [
+    "brand identity",
+    "logo",
+    "design",
+    "brand",
+    "typography"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
   },
   {
    "score": 36,
@@ -416,6 +440,54 @@
    "qualified": true
   },
   {
+   "score": 30,
+   "title": "The Alkera Brand Identity by Artone Studio Packs an Alchemy Lab Into One Letter Data tooling brands love a gradient and…",
+   "source": "mastodon #graphicdesign",
+   "company": "",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-26",
+   "url": "https://weandthecolor.com/the-alkera-brand-identity-by-artone-studio-packs-an-alchemy-lab-into-one-letter/213498",
+   "matched": [
+    "brand identity",
+    "brand",
+    "case study",
+    "logo",
+    "graphic design",
+    "designer"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 29,
+   "title": "Social Media Product Poster Design",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-26",
+   "url": "https://www.freelancer.com/projects/social-media-marketing/Social-Media-Product-Poster-Design.html",
+   "matched": [
+    "design",
+    "poster",
+    "social media",
+    "graphic design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
    "score": 29,
    "title": "Elegant Interior Portfolio Web Design",
    "source": "freelancer.com",
@@ -461,6 +533,29 @@
    "qualified": true,
    "prospect": false,
    "category": "",
+   "city": ""
+  },
+  {
+   "score": 28,
+   "title": "Three years ago, running a digital project meant hiring a writer, a video editor, and a designer. Today, one person wit…",
+   "source": "bluesky",
+   "company": "findflare02.bsky.social",
+   "location": "Remote / worldwide",
+   "posted": "2026-11-26",
+   "url": "https://bsky.app/profile/findflare02.bsky.social/post/3n37pe4cjp22h",
+   "matched": [
+    "editor",
+    "designer",
+    "design",
+    "video"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
    "city": ""
   },
   {
@@ -554,6 +649,56 @@
    "qualified": true,
    "prospect": false,
    "category": "",
+   "city": ""
+  },
+  {
+   "score": 27,
+   "title": "Automotive Instagram Reels Influencer Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-26",
+   "url": "https://www.freelancer.com/projects/social-media-management/Automotive-Instagram-Reels-Influencer.html",
+   "matched": [
+    "reels",
+    "video edit",
+    "animation",
+    "video editing",
+    "video",
+    "editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 27,
+   "title": "Video Promosi YouTube Menarik",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-26",
+   "url": "https://www.freelancer.com/projects/motion-graphics/Video-Promosi-YouTube-Menarik.html",
+   "matched": [
+    "video",
+    "youtube",
+    "motion graphic",
+    "video edit",
+    "animation",
+    "video editing"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
    "city": ""
   },
   {
@@ -713,6 +858,31 @@
   },
   {
    "score": 26,
+   "title": "Luxury Yacht-Inspired Boat Redesign",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-26",
+   "url": "https://www.freelancer.com/projects/interior-design/Luxury-Yacht-Inspired-Boat-Redesign.html",
+   "matched": [
+    "redesign",
+    "logo",
+    "graphic design",
+    "website design",
+    "designer",
+    "design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 26,
    "title": "Independent Market Systems, Livelihoods, and Agriculture Specialist Consultancy Services",
    "source": "reliefweb",
    "company": "Center for Operational Analysis and Research",
@@ -757,167 +927,6 @@
    "prospect": false,
    "category": "",
    "need": "",
-   "city": ""
-  },
-  {
-   "score": 26,
-   "title": "Edit 5 Tech Instagram Reels",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-24",
-   "url": "https://www.freelancer.com/projects/video-production/Edit-Tech-Instagram-Reels.html",
-   "matched": [
-    "reels",
-    "motion graphic",
-    "video edit",
-    "animation",
-    "video editing",
-    "video"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
-  },
-  {
-   "score": 26,
-   "title": "⚡ Remote Creative (Graphic Designer) at Superside",
-   "source": "mastodon #designjobs",
-   "company": "",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-23",
-   "url": "https://mastodon.social/@Remotely/117664027251222025",
-   "matched": [
-    "graphic design",
-    "designer",
-    "design"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "city": ""
-  },
-  {
-   "score": 26,
-   "title": "Skilled Video Editor Needed",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/Skilled-Video-Editor-Needed-40829221.html",
-   "matched": [
-    "editor",
-    "video",
-    "video edit",
-    "video editing",
-    "reels",
-    "youtube"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 26,
-   "title": "Request for Proposal - Consultancy for Developing a Management Plan for Cross River National Park",
-   "source": "reliefweb",
-   "company": "Wildlife Conservation Society",
-   "location": "Nigeria",
-   "posted": "2026-11-18",
-   "url": "https://reliefweb.int/job/4238931/request-proposal-consultancy-developing-management-plan-cross-river-national-park",
-   "matched": [
-    "proposal",
-    "survey",
-    "literature review",
-    "evaluation",
-    "baseline",
-    "assessment"
-   ],
-   "email": "s***@wcs.org",
-   "contact": "email",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 25,
-   "title": "Simple Modern Logo Creation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-24",
-   "url": "https://www.freelancer.com/projects/adobe-illustrator/Simple-Modern-Logo-Creation-40834001.html",
-   "matched": [
-    "logo",
-    "graphic design",
-    "design",
-    "banner",
-    "brand"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
-  },
-  {
-   "score": 25,
-   "title": "Olive Oil Packaging Finally Gets a Sense of Humor in Farolì Honestly, olive oil packaging often looks like it apologize…",
-   "source": "mastodon #graphicdesign",
-   "company": "",
-   "location": "Remote / worldwide",
-   "posted": "2026-11-24",
-   "url": "https://weandthecolor.com/olive-oil-packaging-finally-gets-a-sense-of-humor-in-faroli/213455",
-   "matched": [
-    "packaging",
-    "brand identity",
-    "graphic design",
-    "harvest",
-    "designer",
-    "design"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
-  },
-  {
-   "score": 25,
-   "title": "UI/UX Audit for Conversion Website with concrete visual proposals",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-23",
-   "url": "https://www.freelancer.com/projects/ui-design/Audit-for-Conversion-Website-with.html",
-   "matched": [
-    "proposal",
-    "graphic design",
-    "website design",
-    "web design",
-    "figma",
-    "designer"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
    "city": ""
   }
  ]
