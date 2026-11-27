@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:46:18+00:00",
+ "generated": "2026-11-27T19:16:03+00:00",
  "count": 40,
  "leads": [
   {
@@ -92,6 +92,31 @@
    "contact": "email",
    "kind": "gig",
    "qualified": true
+  },
+  {
+   "score": 44,
+   "title": "Graphic Designer & WordPress Developer Needed",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-27",
+   "url": "https://www.freelancer.com/projects/website-development/Graphic-Designer-WordPress-Developer.html",
+   "matched": [
+    "graphic design",
+    "wordpress",
+    "designer",
+    "design",
+    "website design",
+    "brand"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
   },
   {
    "score": 44,
@@ -516,6 +541,31 @@
   },
   {
    "score": 30,
+   "title": "Looking for a UI/UX Designer for a Healthcare Platform",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-27",
+   "url": "https://www.freelancer.com/projects/ui-design/Looking-for-Designer-for-Healthcare-40839153.html",
+   "matched": [
+    "designer",
+    "design",
+    "landing page",
+    "logo",
+    "graphic design",
+    "website design"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
+  {
+   "score": 30,
    "title": "The Alkera Brand Identity by Artone Studio Packs an Alchemy Lab Into One Letter Data tooling brands love a gradient and…",
    "source": "mastodon #graphicdesign",
    "company": "",
@@ -890,48 +940,6 @@
    "prospect": false,
    "category": "",
    "city": ""
-  },
-  {
-   "score": 27,
-   "title": "Family Christmas Animation",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-21",
-   "url": "https://www.freelancer.com/projects/2d-animation/Family-Christmas-Animation.html",
-   "matched": [
-    "animation",
-    "explainer video",
-    "video edit",
-    "video editing",
-    "video",
-    "youtube"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 27,
-   "title": "Endline Evaluation Consultant",
-   "source": "reliefweb",
-   "company": "Plan International",
-   "location": "Nigeria",
-   "posted": "2026-11-20",
-   "url": "https://reliefweb.int/job/4239243/endline-evaluation-consultant",
-   "matched": [
-    "evaluation",
-    "data analysis",
-    "data entry",
-    "survey",
-    "excel",
-    "transcription"
-   ],
-   "email": "n***@plan-international.org",
-   "contact": "email",
-   "kind": "gig",
-   "qualified": true
   }
  ]
 }
