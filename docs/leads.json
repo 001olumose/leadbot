@@ -1,7 +1,32 @@
 {
- "generated": "2026-11-26T19:21:56+00:00",
+ "generated": "2026-11-27T16:46:18+00:00",
  "count": 40,
  "leads": [
+  {
+   "score": 49,
+   "title": "Video producer animator audio editor writing and editing and production experience for short film documentary research writing humour provided by emphatic kind and masochistic individual who understands that not just product outcome, but process to create",
+   "source": "freelancer.com",
+   "company": "",
+   "location": "Remote",
+   "posted": "2026-11-27",
+   "url": "https://www.freelancer.com/projects/animation/Video-producer-animator-audio-editor.html",
+   "matched": [
+    "editor",
+    "research writ",
+    "video",
+    "editing",
+    "ghostwrit",
+    "video edit"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
+   "city": ""
+  },
   {
    "score": 49,
    "title": "Photo & Video Editing Specialist Needed",
@@ -162,6 +187,31 @@
    "qualified": true,
    "prospect": false,
    "category": "",
+   "city": ""
+  },
+  {
+   "score": 39,
+   "title": "Graphic Designer",
+   "source": "reliefweb",
+   "company": "Médecins Sans Frontières",
+   "location": "Remote",
+   "posted": "2026-11-27",
+   "url": "https://reliefweb.int/job/4240319/graphic-designer",
+   "matched": [
+    "graphic design",
+    "designer",
+    "design",
+    "proposal",
+    "infographic",
+    "typography"
+   ],
+   "email": "a***@london.msf.org",
+   "contact": "email",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
    "city": ""
   },
   {
@@ -392,6 +442,31 @@
    "qualified": true,
    "prospect": false,
    "category": "",
+   "city": ""
+  },
+  {
+   "score": 31,
+   "title": "Consultancy: Baseline & endline assessment on “Strengthening Regional Pathways to Safe Return, Reintegration and Conflict prevention in MENA”",
+   "source": "reliefweb",
+   "company": "Geneva Call",
+   "location": "Switzerland",
+   "posted": "2026-11-27",
+   "url": "https://reliefweb.int/job/4240320/consultancy-baseline-endline-assessment-strengthening-regional-pathways-safe-return-reintegration-and-conflict-prevention-mena",
+   "matched": [
+    "baseline",
+    "assessment",
+    "case study",
+    "data analysis",
+    "survey",
+    "proposal"
+   ],
+   "email": "",
+   "contact": "link",
+   "kind": "gig",
+   "qualified": true,
+   "prospect": false,
+   "category": "",
+   "need": "",
    "city": ""
   },
   {
@@ -857,75 +932,6 @@
    "contact": "email",
    "kind": "gig",
    "qualified": true
-  },
-  {
-   "score": 27,
-   "title": "Endline Consultant",
-   "source": "reliefweb",
-   "company": "Save the Children",
-   "location": "Canada",
-   "posted": "2026-11-18",
-   "url": "https://reliefweb.int/job/4238766/endline-consultant",
-   "matched": [
-    "data analysis",
-    "spss",
-    "survey",
-    "excel",
-    "proposal",
-    "design"
-   ],
-   "email": "g***@savethechildren.ca",
-   "contact": "email",
-   "kind": "gig",
-   "qualified": true
-  },
-  {
-   "score": 26,
-   "title": "Luxury Yacht-Inspired Boat Redesign",
-   "source": "freelancer.com",
-   "company": "",
-   "location": "Remote",
-   "posted": "2026-11-26",
-   "url": "https://www.freelancer.com/projects/interior-design/Luxury-Yacht-Inspired-Boat-Redesign.html",
-   "matched": [
-    "redesign",
-    "logo",
-    "graphic design",
-    "website design",
-    "designer",
-    "design"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
-  },
-  {
-   "score": 26,
-   "title": "Independent Market Systems, Livelihoods, and Agriculture Specialist Consultancy Services",
-   "source": "reliefweb",
-   "company": "Center for Operational Analysis and Research",
-   "location": "Remote",
-   "posted": "2026-11-24",
-   "url": "https://reliefweb.int/job/4239683/independent-market-systems-livelihoods-and-agriculture-specialist-consultancy-services",
-   "matched": [
-    "agricultur",
-    "rural development",
-    "translat",
-    "assessment"
-   ],
-   "email": "",
-   "contact": "link",
-   "kind": "gig",
-   "qualified": true,
-   "prospect": false,
-   "category": "",
-   "need": "",
-   "city": ""
   }
  ]
 }
